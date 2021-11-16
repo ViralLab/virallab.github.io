@@ -177,9 +177,11 @@
         "id": "gozgun",
         "name": "Güneş Başak Özgün",
         "role": "Alumni",
+        "next": "MSc Computer Science, EPFL",
         "img": "pictures/gunes-basak-ozgun.jpg",
         "about": "Computer Science & Engineering BSc student",
         "links": {
+            "website": "https://gozgun.github.io/",
             "linkedin": "https://www.linkedin.com/in/g%C3%BCne%C5%9F-%C3%B6zg%C3%BCn-6724b9151",
             "github": "https://github.com/gozgun"
         },
