@@ -17,15 +17,23 @@
         ]
     },
     {
-        "type": "preprint",
-        "year": 2021,
+        "type": "journal",
+        "year": 2022,
         "topics": ["Data Science"],
         "image": "images/covid19misinfo.png",
         "text": "<b>Misinformation, Believability, and Vaccine Acceptance Over 40 Countries: Takeaways From the Initial Phase of The COVID-19 Infodemic</b><br>Singh K., Lima G., Cha M., Cha C., Kulshrestha J., Ahn Y. Y., and <u>Varol O.</u><br><i>Under review</i>",
         "links":[
             {
+                "source": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263381",
+                "name": "Journal"
+            },
+            {
                 "source": "https://arxiv.org/abs/2104.10864",
                 "name": "ArXiv"
+            },
+            {
+                "source": "files/2022-plosone-covid.pdf",
+                "name": "PDF"
             }
         ]
     },

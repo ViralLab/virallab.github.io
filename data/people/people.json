@@ -25,7 +25,8 @@
     {
         "id": "iuluturk",
         "name": "Ismail Ulutürk",
-        "role": "Collaborator",
+        "role": "Alumni",
+        "next": "Algorithm Engineer, USA Startup",
         "img": "pictures/ismail-uluturk.jpg",
         "about": "Interested in wireless, social, and gluten networks.",
         "links": {
@@ -45,7 +46,8 @@
     {
         "id": "bozturan",
         "name": "Burak Özturan",
-        "role": "Collaborator",
+        "role": "Alumni",
+        "next": "PhD Network Science, Northeastern U.",
         "img": "pictures/burak-ozturan.jpg",
         "about": "Investigating the online behaviour of Turkish Members of Parliament",
         "links": {
@@ -150,7 +152,7 @@
             "website": "https://umutduygu.github.io/",
             "linkedin": "https://www.linkedin.com/in/umutduygu/"
         },
-        "bio": "Umut Duygu is a Political Science M.A. Student at Sabancı University. He holds a bachelor’s degrees in International Relations and History from Koç University. He worked as an intern for several organizations including United Nations, Istanbul Policy Center and Hürriyet. He is carrying out his master’s thesis with Dr. Onur Varol. His main points of interest are Digital Diplomacy, Misinformation and Voter Behavior.",
+        "bio": "Umut Duygu is a Political Science M.A. Student at Sabancı University. He holds bachelor’s degrees in International Relations and History from Koç University. He worked as an intern for several organizations including United Nations, Istanbul Policy Center and Hürriyet. He is carrying out his master’s thesis with Dr. Onur Varol. His main points of interest are Digital Diplomacy, Misinformation and Voter Behavior.",
         "education": [
             "BA in International Relations, Koç University, 2020",
             "BA in History, Koç University, 2020"
@@ -253,7 +255,7 @@
     {
         "id": "okefeli",
         "name": "Osman Doğukan Kefeli",
-        "role": "Collaborator",
+        "role": "Alumni",
         "img": "pictures/dogukan-kefeli.jpg",
         "about": "Physics Engineering  BSc student",
         "links": {
