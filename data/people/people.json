@@ -177,7 +177,7 @@
 
     {
         "id": "gozgun",
-        "name": "Güneş Başak Özgün",
+        "name": "Güneş Özgün",
         "role": "Alumni",
         "next": "MSc Computer Science, EPFL",
         "img": "pictures/gunes-basak-ozgun.jpg",
@@ -254,7 +254,7 @@
 
     {
         "id": "okefeli",
-        "name": "Osman Doğukan Kefeli",
+        "name": "Doğukan Kefeli",
         "role": "Alumni",
         "img": "pictures/dogukan-kefeli.jpg",
         "about": "Physics Engineering  BSc student",

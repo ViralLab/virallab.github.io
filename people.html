@@ -31,9 +31,9 @@
         <script type="text/javascript">
 
             function draw_note(profile){
-                divStr = '<div class="card" style="width: 12rem; margin-left:1em;" ><img class="card-img-top" src="data/people/' + profile['img'] + '"> <div class="card-body">';
+                divStr = '<div class="card" style="width: 10rem; margin-left:0.5em;" ><img class="card-img-top" src="data/people/' + profile['img'] + '"> <div class="card-body">';
 
-                divStr += '<a data-toggle="modal" style="width:100%; color:#002776; margin-top:5px; text-align:center;" data-target="#'+ profile['id'] +'">' + profile['name'] + '</a>';
+                divStr += '<a data-toggle="modal" style="width:100%; color:#002776; margin-top:5px; text-align:center;" data-target="#'+ profile['id'] +'"><h6>' + profile['name'] + '</h6></a>';
 
                 divStr += '<div class="modal fade" id="' + profile['id']+ '" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true"><div class="modal-dialog modal-dialog-centered" role="document"><div class="modal-content"><div class="modal-header"><h5 class="modal-title" id="exampleModalLongTitle">' + profile['name'] + '</h5><button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true">&times;</span> </button></div> <div class="modal-body"><b>Biography</b><p class="text-justify">' + profile['bio'] + '</p>';
 
