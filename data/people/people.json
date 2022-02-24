@@ -265,6 +265,22 @@
         },
         "bio": "Dogukan is a Physics Engineering student at Istanbul Technical University. Worked on nuclear instrumentation on his graduation thesis in ITU. Currently working on computer vision and deep learning. ",
         "education": []
+    },
+
+    {
+        "id": "sdemirkiran",
+        "name": "Serhat Demirkıran",
+        "role": "Master's",
+        "img": "pictures/serhat-demirkiran.jpg",
+        "about": "Data Science MSc student",
+        "links": {
+            "github": "https://github.com/demirkirans",
+            "linkedin": "https://www.linkedin.com/in/serhat-demirk%C4%B1ran-09a2a884/"
+        },
+        "bio": "Serhat Demirkıran is a Data Science MSc. student at Sabancı University. He received his bachelor's degree in Computer Engineering from İstanbul Technical University. During his undergraduate, he joined the project team ITU Rover and worked on autonomous navigation for UGV. He studied recommender systems for his graduation project, developed a model to predict tweet engagement rates as a problem presented by RecSys Challenge 2020. He is interested in user behaviour and misinformation lately.",
+        "education": [
+            "BSc in Computer Science, Istanbul Technical University, 2021"
+        ]
     }
 
 ]

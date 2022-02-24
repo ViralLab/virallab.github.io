@@ -36,6 +36,10 @@
                 "name": "PDF"
             },
             {
+                "source": "https://twitter.com/nekozzang/status/1496391731222302720",
+                "name": "twitter"
+            },
+            {
                 "source": "bibtex/covid19misinfo.bib",
                 "name": "BibTeX"
             }
