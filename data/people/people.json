@@ -281,6 +281,21 @@
         "education": [
             "BSc in Computer Science, Istanbul Technical University, 2021"
         ]
+    },
+
+    {
+        "id": "azengin",
+        "name": "Fatih Arda Zengin",
+        "role": "Undergraduate",
+        "img": "pictures/fatih-arda-zengin.jpg",
+        "about": "Computer Science & Engineering BSc student",
+        "links": {
+            "github": "https://github.com/fatihardazengin",
+            "linkedin": "https://www.linkedin.com/in/fatihaz",
+            "website": "www.fatihardazengin.com"
+        },
+        "bio": "Fatih Arda Zengin is a CS student at Sabanci University and he is interested in Cyber Security. He works at VRL lab as TUBITAK STAR program fellow to contribute on “Causal analysis of daylight saving time and quantifying its impact on wellbeing”",
+        "education": []
     }
 
 ]
