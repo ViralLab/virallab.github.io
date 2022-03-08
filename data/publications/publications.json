@@ -1,6 +1,19 @@
 [
     {
         "type": "preprint",
+        "year": 2022,
+        "topics": ["Comp. Soc. Sci."],
+        "image": "images/support-network.png",
+        "text": "<b>Academic Support Network Reflects Doctoral Experience and Productivity</b><br>Seckin O.C., <u>Varol O.</u><br><i>Under review</i>",
+        "links":[
+            {
+                "source": "https://arxiv.org/abs/2203.03430",
+                "name": "ArXiv"
+            }
+        ]
+    },
+    {
+        "type": "preprint",
         "year": 2021,
         "topics": ["Comp. Soc. Sci."],
         "image": "images/fairnet2021.png",
