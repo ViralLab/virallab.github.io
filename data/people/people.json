@@ -296,6 +296,20 @@
         },
         "bio": "Fatih Arda Zengin is a CS student at Sabanci University and he is interested in Cyber Security. He works at VRL lab as TUBITAK STAR program fellow to contribute on “Causal analysis of daylight saving time and quantifying its impact on wellbeing”",
         "education": []
+    },
+
+    {
+        "id": "edemirci",
+        "name": "Ege Demirci",
+        "role": "Undergraduate",
+        "img": "pictures/ege-demirci.jpg",
+        "about": "Computer Science & Engineering BSc student",
+        "links": {
+            "github": "https://github.com/egedemirci",
+            "linkedin": "https://www.linkedin.com/in/egedemirci/"
+        },
+        "bio": "Ege Demirci is an undergraduate Computer Science and Engineering student at Sabanci University. He is currently trying to improve himself in the fields of data science and machine learning, apart from the computer science education he received at school. He is particularly interested in researching social sciences with the help of Data Science and Machine Learning.",
+        "education": []
     }
 
 ]
