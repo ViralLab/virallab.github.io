@@ -51,6 +51,15 @@
                 return divStr;
             }
 
+            function draw_list(profile){
+                divStr = '<div class="card" style="margin-left:1em;"><div class="card-horizontal">';
+                divStr += '<div class="height: 10rem;"><img style="height: 10rem;" src="data/people/' + profile['img'] + '"></div>';
+                divStr += '<div class="card-body"><a href="' + profile['links']['website'] + '" target="_blank" style="margin-right:5px;"><h4 class="card-title">' + profile['name'] + '</h4></a>';
+                divStr += '<p class="card-text">' + profile['about'] + '</p></div></div></div>';
+
+                return divStr;
+            }
+
             function get_link_html(profile){
                 divStr = '';
                 if('email' in profile['links']) {
@@ -111,7 +120,7 @@
 
             function prepare_user_cards(profiles){
                 console.log(profiles);
-                var typeRank = ['PI','PhD',"Master's",'Undergraduate','Collaborator','Alumni','Intern'];
+                var typeRank = ['PI','PhD',"Master's",'Undergraduate','Collaborator','Faculty','Alumni','Intern'];
                 console.log(typeRank);
 
                 var mstr = '';
@@ -136,15 +145,24 @@
                         if (typeRank[t] == 'Intern'){
                             extension = 's';
                         }
+                        if (typeRank[t] == 'Faculty'){
+                            extension = ' collaborators';
+                        }
 
                         
                         mstr += '<h3>' + typeRank[t] + extension + '</h3><div class="card-columns">';
                         //mstr += '<div class="card-columns">';
                         for (var i=0; i<plist.length; i++){
-                            if (typeRank[t] !== 'Alumni'){
+                            if ((typeRank[t] !== 'Alumni') & (typeRank[t] !== 'Faculty')) {
                                 mstr += draw_card(plist[i]);
-                            }else{
+                            }
+
+                            if (typeRank[t] == 'Alumni'){
                                 mstr += draw_note(plist[i]);
+                            }
+
+                            if (typeRank[t] == 'Faculty'){
+                                mstr += draw_list(plist[i]);
                             }
                         }
                         mstr += '</div>';

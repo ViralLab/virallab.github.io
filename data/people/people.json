@@ -310,6 +310,83 @@
         },
         "bio": "Ege Demirci is an undergraduate Computer Science and Engineering student at Sabanci University. He is currently trying to improve himself in the fields of data science and machine learning, apart from the computer science education he received at school. He is particularly interested in researching social sciences with the help of Data Science and Machine Learning.",
         "education": []
+    },
+
+    {
+        "id": "nmustafaoglu",
+        "name": "Nur Mustafaoglu",
+        "role": "Faculty",
+        "img": "pictures/nur-mustafaoglu.jpg",
+        "about": "SU, Molecular Biology and Bioengineering",
+        "links": {
+            "website": "http://mustafaoglulab.com/"
+        }
+    },
+
+    {
+        "id": "otastan",
+        "name": "Oznur Tastan",
+        "role": "Faculty",
+        "img": "pictures/oznur-tastan.jpg",
+        "about": "SU, Computer Science",
+        "links": {
+            "website": "http://people.sabanciuniv.edu/otastan/"
+        }
+    },
+
+    {
+        "id": "eselcuk",
+        "name": "Emre Selcuk",
+        "role": "Faculty",
+        "img": "pictures/emre-selcuk.jpg",
+        "about": "SU, Psychology",
+        "links": {
+            "website": "http://myweb.sabanciuniv.edu/emreselcuk/"
+        }
+    },
+
+    {
+        "id": "ggunaydin",
+        "name": "Gul Gunaydin",
+        "role": "Faculty",
+        "img": "pictures/gul-gunaydin.jpg",
+        "about": "SU, Psychology",
+        "links": {
+            "website": "http://myweb.sabanciuniv.edu/gulgunaydin/"
+        }
+    },
+
+    {
+        "id": "asimsir",
+        "name": "Aziz Simsir",
+        "role": "Faculty",
+        "img": "pictures/aziz-simsir.jpg",
+        "about": "SU, Finance",
+        "links": {
+            "website": "http://myweb.sabanciuniv.edu/simsir/"
+        }
+    },
+
+    {
+        "id": "mmoral",
+        "name": "Mert Moral",
+        "role": "Faculty",
+        "img": "pictures/mert-moral.jpg",
+        "about": "SU, Political Science",
+        "links": {
+            "website": "http://www.mertmoral.com/"
+        }
+    },
+
+    {
+        "id": "eakpinar",
+        "name": "Ezgi Akpinar",
+        "role": "Faculty",
+        "img": "pictures/ezgi-akpinar.jpg",
+        "about": "SU, Marketing",
+        "links": {
+            "website": "http://myweb.sabanciuniv.edu/ezgiakpinar/"
+        }
     }
 
 ]
