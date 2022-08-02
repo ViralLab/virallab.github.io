@@ -9,16 +9,28 @@
             {
                 "source": "https://arxiv.org/abs/2203.03430",
                 "name": "ArXiv"
+            },
+            {
+                "source": "https://twitter.com/varollab/status/1508850488158138378",
+                "name": "twitter"
             }
         ]
     },
     {
-        "type": "preprint",
-        "year": 2021,
+        "type": "journal",
+        "year": 2022,
         "topics": ["Comp. Soc. Sci."],
         "image": "images/fairnet2021.png",
-        "text": "<b>Information Access Equality on Network Generative Models</b><br>Wang X., <u>Varol O.</u>, Eliassi-Rad T.<br><i>Under review</i>",
+        "text": "<b>Information Access Equality on Network Generative Models</b><br>Wang X., <u>Varol O.</u>, Eliassi-Rad T.<br><i>Appl Netw Sci 7, 54 (2022)</i>",
         "links":[
+            {
+                "source": "https://appliednetsci.springeropen.com/articles/10.1007/s41109-022-00494-8",
+                "name": "Journal"
+            },
+            {
+                "source": "files/2022-ANS-fairness.pdf",
+                "name": "PDF"
+            },
             {
                 "source": "https://arxiv.org/abs/2107.02263",
                 "name": "ArXiv"
