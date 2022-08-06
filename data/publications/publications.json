@@ -38,6 +38,14 @@
             {
                 "source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3880680",
                 "name": "SSRN"
+            },
+            {
+                "source": "https://twitter.com/tinaeliassi/status/1554487378399690754",
+                "name": "twitter"
+            },
+            {
+                "source": "bibtex/ans2022fairnet.bib",
+                "name": "BibTeX"
             }
         ]
     },
