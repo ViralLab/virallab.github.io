@@ -97,7 +97,8 @@
     {
         "id": "ocseckin",
         "name": "Özgür Can Seçkin",
-        "role": "Master's",
+        "role": "Alumni",
+        "next": "PhD Informatics at Indiana University",
         "img": "pictures/ozgur-can-seckin.jpg",
         "about": "Data Science MSc student",
         "links": {
@@ -113,7 +114,8 @@
     {
         "id": "dbayik",
         "name": "Davut Bayık",
-        "role": "Master's",
+        "role": "Alumni",
+        "next": "",
         "img": "pictures/davut-bayik.jpg",
         "about": "Data Science MSc student",
         "links": {
@@ -162,7 +164,8 @@
     {
         "id": "mozturk",
         "name": "Mert Öztürk",
-        "role": "Master's",
+        "role": "Alumni",
+        "next": "Data Scientist at Spyke Games",
         "img": "pictures/mert-ozturk.jpg",
         "about": "Data Science MSc student",
         "links": {
@@ -239,7 +242,8 @@
     {
         "id": "eotenen",
         "name": "Ege Ötenen",
-        "role": "Collaborator",
+        "role": "Alumni",
+        "next": "Dual PhD, Informatics and Cognitive Science at Indiana University",
         "img": "pictures/ege-otenen.jpg",
         "about": "Cognitive Psychology  MSc student",
         "links": {
@@ -386,6 +390,27 @@
         "about": "SU, Marketing",
         "links": {
             "website": "http://myweb.sabanciuniv.edu/ezgiakpinar/"
+        }
+    },
+
+    {
+        "id": "nihat-mugurtay",
+        "name": "Nihat Muğurtay",
+        "role": "Postdoc",
+        "education": [
+            "BA in Philosophy, Bogazici University, 2013",
+            "MA in Philosophy, Bogazici University, 2016",
+            "Bachelor of Laws, Kadir Has University, 2013",
+            "PhD in Political Science, Sabanci University, 2022"
+        ],
+        "img": "pictures/nihat-mugurtay.jpg",
+        "about": "Postdoctoral Researcher",
+        "bio": "Dr. Nihat Muğurtay has a Ph.D from Sabanci University, Political Science department. His doctoral dissertation focuses on China, Turkey, and the United Arab Emirates' global foreign aid behavior, explaining how geopolitical and economic factors shape non-traditional donors’ response to OECD-DAC donors. He has taught International Political Economy at Sabancı University. Apart from academics, Nihat has extensive research experience on youth radicalization and ethnic issues in Turkey and worked in different thinks-tanks as a consultant and researcher, including International Crisis Group and TESEV. Nihat joined Viral Lab as a post-doctoral researcher in August 2022, and desires to link international relations with computational methods.  Nihat employs quantitative methods in his research and aims to sharpen his methodological skills by adopting computational tools, including Web Scraping and social media analysis. He has advanced experience in STATA and Latex.",
+        "links": {
+            "website": "https://nihatmugurtay.com/",
+            "scholar": "https://scholar.google.com/citations?user=K7NgiC0AAAAJ",
+            "linkedin": "https://www.linkedin.com/in/n-mu%C4%9Furtay-7620741b7/",
+            "twitter": "https://twitter.com/MugurtayN"
         }
     }
 

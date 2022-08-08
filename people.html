@@ -120,7 +120,7 @@
 
             function prepare_user_cards(profiles){
                 console.log(profiles);
-                var typeRank = ['PI','PhD',"Master's",'Undergraduate','Collaborator','Faculty','Alumni','Intern'];
+                var typeRank = ['PI','Postdoc','PhD',"Master's",'Undergraduate','Collaborator','Faculty','Alumni','Intern'];
                 console.log(typeRank);
 
                 var mstr = '';
@@ -135,6 +135,9 @@
                         var extension = '';
                         if (['PhD',"Master's",'Undergraduate'].includes(typeRank[t])){
                             extension = ' students';
+                        }
+                        if (typeRank[t] == 'Postdoc'){
+                            extension = 'toral Researchers';
                         }
                         if (typeRank[t] == 'Collaborator'){
                             extension = 's';
