@@ -412,6 +412,24 @@
             "linkedin": "https://www.linkedin.com/in/n-mu%C4%9Furtay-7620741b7/",
             "twitter": "https://twitter.com/MugurtayN"
         }
+    },
+
+    {
+        "id": "vahid-khalili",
+        "name": "Vahid Khalili",
+        "role": "PhD",
+        "education": [
+            "BSc in Electronic Engineering, Islamic Azad University, 2014",
+            "MSc in Executive Management, Islamic Azad University, 2017"
+        ],
+        "img": "pictures/vahid-khalili.jpg",
+        "about": "CS PhD Student",
+        "bio": "Vahid Khalili Param is a Computer Science Ph.D. student at Sabanci University. He was involved in several projects with main focus on opinion dynamics and sentiment analysis on social media. He holds a Master’s degree in Executive Management from Islamic Azad University, Science and Research Branch in Iran. His research interest is the emerging intersection of data analytics, social physics, and computational social science to study the dynamics of human collective behavior under the influence of the social digital interactions of individuals. Social innovation, civic engagement, and data-driven policy-making platforms are also his research interests as connecting dots to his future academic life. He was involved in a research project for a national call during a pandemic where he used social media content analysis, sentiment analysis, NLP, and other techniques to extract opinions and emotions from objective social media data. He has a professional background of social media strategist and growth hack mentoring for several companies and start-ups in Iran.",
+        "links": {
+            "website": "https://www.v-idea.ir",
+            "linkedin": "https://www.linkedin.com/in/vahidkhaliliparam",
+            "twitter": "https://twitter.com/khaliliparam"
+        }
     }
 
 ]
