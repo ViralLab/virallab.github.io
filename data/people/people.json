@@ -430,6 +430,24 @@
             "linkedin": "https://www.linkedin.com/in/vahidkhaliliparam",
             "twitter": "https://twitter.com/khaliliparam"
         }
+    },
+
+    {
+        "id": "ali-najafi",
+        "name": "Ali Najafi",
+        "role": "MSc",
+        "education": [
+            "BSc in Computer Engineering, University of Tabriz, 2021"
+        ],
+        "img": "pictures/ali-najafi.jpg",
+        "about": "CS MSc Student",
+        "bio": "He is a Computer Science Master's Student at Sabanci University interested in solving real-world challenges with NLP.",
+        "links": {
+            "website": "http://najafi-ali.com/",
+            "linkedin": "https://www.linkedin.com/in/najafi-ali1998/",
+            "github": "https://github.com/AliNajafi1998",
+            "scholar": "https://scholar.google.com/citations?hl=en&user=c9QdS-sAAAAJ"
+        }
     }
 
 ]
