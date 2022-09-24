@@ -2,6 +2,19 @@
     {
         "type": "preprint",
         "year": 2022,
+        "topics": ["Comp. Soc. Sci.", "Data Science"],
+        "image": "images/varol2022musk.png",
+        "text": "<b></b><br><u>Varol O.</u><br>",
+        "links":[
+            {
+                "source": "https://arxiv.org/abs/2209.10006",
+                "name": "ArXiv"
+            }
+        ]
+    },
+    {
+        "type": "preprint",
+        "year": 2022,
         "topics": ["Comp. Soc. Sci."],
         "image": "images/support-network.png",
         "text": "<b>Academic Support Network Reflects Doctoral Experience and Productivity</b><br>Seckin O.C., <u>Varol O.</u><br><i>Under review</i>",
