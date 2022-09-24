@@ -4,7 +4,7 @@
         "year": 2022,
         "topics": ["Comp. Soc. Sci.", "Data Science"],
         "image": "images/varol2022musk.png",
-        "text": "<b></b><br><u>Varol O.</u><br>",
+        "text": "<b>Should we agree to disagree about Twitter's bot problem?</b><br><u>Varol O.</u><br>",
         "links":[
             {
                 "source": "https://arxiv.org/abs/2209.10006",
