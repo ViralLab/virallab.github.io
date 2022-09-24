@@ -2,7 +2,7 @@
     {
         "type": "preprint",
         "year": 2022,
-        "topics": ["Comp. Soc. Sci.", "Data Science"],
+        "topics": ["Comp. Soc. Sci.", "Data Science", "VRLLab"],
         "image": "images/varol2022musk.png",
         "text": "<b>Should we agree to disagree about Twitter's bot problem?</b><br><u>Varol O.</u><br>",
         "links":[
@@ -15,7 +15,7 @@
     {
         "type": "preprint",
         "year": 2022,
-        "topics": ["Comp. Soc. Sci."],
+        "topics": ["Comp. Soc. Sci.", "Network Science", "VRLLab"],
         "image": "images/support-network.png",
         "text": "<b>Academic Support Network Reflects Doctoral Experience and Productivity</b><br>Seckin O.C., <u>Varol O.</u><br><i>Under review</i>",
         "links":[
@@ -32,7 +32,7 @@
     {
         "type": "journal",
         "year": 2022,
-        "topics": ["Comp. Soc. Sci."],
+        "topics": ["Comp. Soc. Sci.", "Data Science"],
         "image": "images/fairnet2021.png",
         "text": "<b>Information Access Equality on Network Generative Models</b><br>Wang X., <u>Varol O.</u>, Eliassi-Rad T.<br><i>Appl Netw Sci 7, 54 (2022)</i>",
         "links":[
@@ -128,7 +128,7 @@
     {
         "type": "journal",
         "year": 2021,
-        "topics": ["Network Science"],
+        "topics": ["Network Science", "Machine Learning"],
         "image": "images/covid-barabasi.png",
         "text": "<b>Network Medicine Framework for Identifying Drug Repurposing Opportunities for COVID-19</b><br>Gysi D., Do Valle I., Zitnik M., Ameli A., Gan X., <u>Varol O.</u>, Sanchez H., Baron R., Ghiassian D., Loscalzo J., Barabasi AL.<br><i>PNAS 118 (19) e2025581118, 2021</i>",
         "links": [
