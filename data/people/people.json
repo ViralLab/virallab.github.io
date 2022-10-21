@@ -115,7 +115,7 @@
         "id": "dbayik",
         "name": "Davut Bayık",
         "role": "Alumni",
-        "next": "",
+        "next": "Associate Management Consulting at PwC Türkiye",
         "img": "pictures/davut-bayik.jpg",
         "about": "Data Science MSc student",
         "links": {
@@ -290,7 +290,7 @@
     {
         "id": "azengin",
         "name": "Fatih Arda Zengin",
-        "role": "Undergraduate",
+        "role": "Alumni",
         "img": "pictures/fatih-arda-zengin.jpg",
         "about": "Computer Science & Engineering BSc student",
         "links": {
