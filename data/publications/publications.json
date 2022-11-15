@@ -4,11 +4,15 @@
         "year": 2022,
         "topics": ["Comp. Soc. Sci.", "Data Science", "VRLLab"],
         "image": "images/varol2022musk.png",
-        "text": "<b>Should we agree to disagree about Twitter's bot problem?</b><br><u>Varol O.</u><br>",
+        "text": "<b>Should we agree to disagree about Twitter's bot problem?</b><br><u>Varol O.</u><br><i>Under review</i>",
         "links":[
             {
                 "source": "https://arxiv.org/abs/2209.10006",
                 "name": "ArXiv"
+            },
+            {
+                "source": "https://twitter.com/onurvarol/status/1590600414713434113",
+                "name": "twitter"
             }
         ]
     },
@@ -17,7 +21,7 @@
         "year": 2022,
         "topics": ["Comp. Soc. Sci.", "Network Science", "VRLLab"],
         "image": "images/support-network.png",
-        "text": "<b>Academic Support Network Reflects Doctoral Experience and Productivity</b><br>Seckin O.C., <u>Varol O.</u><br><i>Under review</i>",
+        "text": "<b>Academic Support Network Reflects Doctoral Experience and Productivity</b><br>Seckin O.C., <u>Varol O.</u><br><i>In press (accepted to EPJ-DS)</i>",
         "links":[
             {
                 "source": "https://arxiv.org/abs/2203.03430",
@@ -96,11 +100,15 @@
         "year": 2021,
         "topics": ["Comp. Soc. Sci."],
         "image": "images/social-annotate.png",
-        "text": "<b>Social-Annotate: Browser extension to annotate and collect social media data</b><br>Uluturk I., <u>Varol O.</u><br><i>Under review in JOSS</i>",
+        "text": "<b>Social-Annotate: Browser extension to annotate and collect social media data</b><br>Uluturk I., <u>Varol O.</u>",
         "links":[
             {
                 "source": "https://github.com/uluturki/social-annotate",
                 "name": "Github"
+            },
+            {
+                "source": "files/social-annotate.pdf",
+                "name": "PDF"
             },
             {
                 "source": "https://www.youtube.com/watch?v=rSJiVwJzM2k",
@@ -113,7 +121,7 @@
         "year": 2021,
         "topics": ["Machine Learning", "Data Science"],
         "image": "images/l2p_fig.png",
-        "text": "<b>L2P: Algorithm for estimating heavy-tailed outcomes</b><br>Wang X., <u>Varol O.</u>, Eliassi-Rad T.<br><i>Under review</i>",
+        "text": "<b>L2P: Algorithm for estimating heavy-tailed outcomes</b><br>Wang X., <u>Varol O.</u>, Eliassi-Rad T.",
         "links": [
             {
                 "source": "https://arxiv.org/abs/1908.04628",
