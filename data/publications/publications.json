@@ -2,6 +2,23 @@
     {
         "type": "preprint",
         "year": 2022,
+        "topics": ["Data Science", "VRLLab"],
+        "image": "images/secimdataset2022.png",
+        "text": "<b>#Secim2023: First Public Dataset for Studying Turkish General Election</b><br>Najafi A., Mugurtay N., Demirci E., Demirkiran S., Karadeniz HA., <u>Varol O.</u><br><i>Under review</i>",
+        "links":[
+            {
+                "source": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FQJA1ZW",
+                "name": "Dataset"
+            },
+            {
+                "source": "https://github.com/ViralLab/Secim2023_Dataset",
+                "name": "Github"
+            }
+        ]
+    },
+    {
+        "type": "preprint",
+        "year": 2022,
         "topics": ["Comp. Soc. Sci.", "Data Science", "VRLLab"],
         "image": "images/varol2022musk.png",
         "text": "<b>Should we agree to disagree about Twitter's bot problem?</b><br><u>Varol O.</u><br><i>Under review</i>",
