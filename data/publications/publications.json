@@ -17,12 +17,20 @@
         ]
     },
     {
-        "type": "preprint",
+        "type": "journal",
         "year": 2022,
         "topics": ["Comp. Soc. Sci.", "Network Science", "VRLLab"],
         "image": "images/support-network.png",
-        "text": "<b>Academic Support Network Reflects Doctoral Experience and Productivity</b><br>Seckin O.C., <u>Varol O.</u><br><i>In press (accepted to EPJ-DS)</i>",
+        "text": "<b>Academic Support Network Reflects Doctoral Experience and Productivity</b><br>Seckin O.C., <u>Varol O.</u><br><i>EPJ Data Sci. 11, 57 (2022)</i>",
         "links":[
+            {
+                "source": "https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-022-00369-z",
+                "name": "Journal"
+            },
+            {
+                "source": "files/2022-epjds-asn.pdf",
+                "name": "PDF"
+            },
             {
                 "source": "https://arxiv.org/abs/2203.03430",
                 "name": "ArXiv"
@@ -30,6 +38,10 @@
             {
                 "source": "https://twitter.com/varollab/status/1508850488158138378",
                 "name": "twitter"
+            },
+            {
+                "source": "bibtex/asn2022epjds.bib",
+                "name": "BibTeX"
             }
         ]
     },
