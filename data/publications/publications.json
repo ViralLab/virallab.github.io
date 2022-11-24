@@ -7,6 +7,10 @@
         "text": "<b>#Secim2023: First Public Dataset for Studying Turkish General Election</b><br>Najafi A., Mugurtay N., Demirci E., Demirkiran S., Karadeniz HA., <u>Varol O.</u><br><i>Under review</i>",
         "links":[
             {
+                "source":"https://arxiv.org/abs/2211.13121",
+                "name":"ArXiv"
+            },
+            {
                 "source": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FQJA1ZW",
                 "name": "Dataset"
             },
