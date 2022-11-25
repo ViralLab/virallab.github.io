@@ -69,6 +69,27 @@
     {
         "type": "journal",
         "year": 2022,
+        "topics": ["Comp. Soc. Sci.", "Network Science"],
+        "image": "images/2022-sms-femicide.png",
+        "text": "<b>The Role of Legacy Media and Social Media in Increasing Public Engagement About Violence Against Women in Turkey</b><br>Bas O, Ogan C., <u>Varol O.</u><br><i>Social Media + Society, 8(4) (2022)</i>",
+        "links":[
+            {
+                "source": "https://journals.sagepub.com/doi/10.1177/20563051221138939",
+                "name": "Journal"
+            },
+            {
+                "source": "files/2022-sms-femicide.pdf",
+                "name": "PDF"
+            },
+            {
+                "source": "bibtex/sms2022femicide.bib",
+                "name": "BibTeX"
+            }
+        ]
+    },
+    {
+        "type": "journal",
+        "year": 2022,
         "topics": ["Comp. Soc. Sci.", "Data Science"],
         "image": "images/fairnet2021.png",
         "text": "<b>Information Access Equality on Network Generative Models</b><br>Wang X., <u>Varol O.</u>, Eliassi-Rad T.<br><i>Appl Netw Sci 7, 54 (2022)</i>",
