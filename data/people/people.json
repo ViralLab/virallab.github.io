@@ -289,7 +289,7 @@
 
     {
         "id": "azengin",
-        "name": "Fatih Arda Zengin",
+        "name": "Arda Zengin",
         "role": "Alumni",
         "img": "pictures/fatih-arda-zengin.jpg",
         "about": "Computer Science & Engineering BSc student",
@@ -448,6 +448,40 @@
             "github": "https://github.com/AliNajafi1998",
             "scholar": "https://scholar.google.com/citations?hl=en&user=c9QdS-sAAAAJ"
         }
+    },
+
+    {
+        "id": "yasser-zouzou",
+        "name": "Yasser Zouzou",
+        "role": "Master's",
+        "education": [
+            "MSc in Civil Engineering, Erciyes University, 2022",
+            "BSc in Civil Engineering, Damascus University, 2018"
+        ],
+        "img": "pictures/yasser-zouzou.jpg",
+        "about": "Data Science MSc Student",
+        "bio": "Yasser is a Data Science MSc student at Sabancı University interested in utilizing data analytics and machine learning to address real world problems.",
+        "links": {
+            "linkedin": "https://www.linkedin.com/in/yasserzouzou/",
+            "github": "https://github.com/YZouzou"
+        }
+    },
+
+    {
+        "id": "aysegul-rana-erdemli",
+        "name": "Aysegul Rana Erdemli",
+        "role": "Master's",
+        "education": [
+            "BSc in Computer Science and Engineering, Sabanci University, 2022"
+        ],
+        "img": "pictures/aysegul-rana-erdemli.jpg",
+        "about": "Computer Science MSc Student",
+        "bio": "Aysegul Rana is currently working on her MSc studies in Sabanci University, Computer Science and Engineering program. She graduated from the same program in Summer 2022. She is interested in computational social sciences, network science, distributed systems and digital humanities. She is working as a Backend Software Engineer in a Milan based company, Bending Spoons. She would like to continue doing research on using computer science as a tool for social sciences and art studies.",
+        "links": {
+            "linkedin": "https://www.linkedin.com/in/aysegul-rana-erdemli-4b022b173/",
+            "github": "https://github.com/aysegulrana"
+        }
     }
+
 
 ]
