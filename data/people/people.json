@@ -481,6 +481,24 @@
             "linkedin": "https://www.linkedin.com/in/aysegul-rana-erdemli-4b022b173/",
             "github": "https://github.com/aysegulrana"
         }
+    },
+
+    {
+        "id": "hasan-kemik",
+        "name": "Hasan Kemik",
+        "role": "Master's",
+        "education": [
+            "BSc in Computer Engineering, Istanbul Bilgi University, 2021",
+            "BSc in Mechatronics Engineering, Istanbul Bilgi University, 2020"
+        ],
+        "img": "pictures/hasan-kemik.jpg",
+        "about": "Computer Science MSc Student",
+        "bio": "Hasan Kemik is a MSc. Student at Sabancı University Computer Science program. He hold bachelor’s degrees in Computer Engineering and Mechatronics Engineering from Istanbul Bilgi University. He’s been working with various NLP problems focused on Turkish for 2 years and currently interested in chatbots, conversational ai.",
+        "links": {
+            "scholar": "https://scholar.google.com/citations?user=cuU1gNMAAAAJ&hl=en",
+            "linkedin": "https://www.linkedin.com/in/hasan-kemik/",
+            "github": "https://github.com/Eruimdas"
+        }
     }
 
 
