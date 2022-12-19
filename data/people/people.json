@@ -499,6 +499,23 @@
             "linkedin": "https://www.linkedin.com/in/hasan-kemik/",
             "github": "https://github.com/Eruimdas"
         }
+    },
+
+    {
+        "id": "alper-karadeniz",
+        "name": "Hüseyin Alper Karadeniz",
+        "role": "Undergraduate",
+        "education": [
+
+        ],
+        "img": "pictures/alper-karadeniz.jpg",
+        "about": "Computer Science BSc and Management BA Student",
+        "bio": "Hüseyin Alper Karadeniz is an undergraduate student at Sabanci University, pursuing his double major in B.Sc. in Computer Science & Engineering and B.A. in Management. He is particularly interested in product development and software engineering with the help of machine learning and data science.",
+        "links": {
+            "website": "http://halperk.net/",
+            "linkedin": "https://www.linkedin.com/in/halperk/",
+            "github": "https://github.com/halperk"
+        }
     }
 
 
