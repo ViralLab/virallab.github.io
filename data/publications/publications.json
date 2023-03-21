@@ -4,7 +4,7 @@
         "year": 2023,
         "topics": ["Data Science"],
         "image": "images/justanotherdaytwitter2023.png",
-        "text": "<b>Just Another Day on Twitter: A Complete 24 Hours of Twitter Data</b><br>Juergen Pfeffer, Daniel Matter, Kokil Jaidka, <u>Onur Varol</u>, Afra Mashhadi, Jana Lasser, Dennis Assenmacher, Siqi Wu, Diyi Yang, Cornelia Brantner, Daniel M. Romero, Jahna Otterbacher, Carsten Schwemmer, Kenneth Joseph, David Garcia, Fred Morstatter<br><i>Under review</i>",
+        "text": "<b>Just Another Day on Twitter: A Complete 24 Hours of Twitter Data</b><br>Juergen Pfeffer, Daniel Matter, Kokil Jaidka, <u>Onur Varol</u>, Afra Mashhadi, Jana Lasser, Dennis Assenmacher, Siqi Wu, Diyi Yang, Cornelia Brantner, Daniel M. Romero, Jahna Otterbacher, Carsten Schwemmer, Kenneth Joseph, David Garcia, Fred Morstatter<br><i>Accepted, ICWSM</i>",
         "links":[
             {
                 "source":"https://arxiv.org/abs/2301.11429",
