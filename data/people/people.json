@@ -519,6 +519,22 @@
             "linkedin": "https://www.linkedin.com/in/halperk/",
             "github": "https://github.com/halperk"
         }
+    },
+
+    {
+        "id": "alper-buyukalaca",
+        "name": "Alper Büyükalaca",
+        "role": "Undergraduate",
+        "education": [
+            
+        ],
+        "img": "pictures/alper-buyukalaca.jpg",
+        "about": "Computer Science BSc and Math minor Student",
+        "bio": "Alper Büyükalaca is an undergraduate Computer Science and Engineering student at Sabanci University. Besides his major, he is doing a minor in Mathematics and works as a student researcher at TÜBİTAK. He is interested in practical & theoretic applications of artificial intelligence and machine learning models.",
+        "links": {
+            "linkedin": "https://www.linkedin.com/in/alper-b%C3%BCy%C3%BCkalaca/",
+            "github": "https://github.com/alperby"
+        }
     }
 
 
