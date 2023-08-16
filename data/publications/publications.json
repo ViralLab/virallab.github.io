@@ -50,12 +50,20 @@
         ]
     },
     {
-        "type": "preprint",
-        "year": 2022,
+        "type": "journal",
+        "year": 2023,
         "topics": ["Comp. Soc. Sci.", "Data Science", "VRLLab"],
         "image": "images/varol2022musk.png",
-        "text": "<b>Should we agree to disagree about Twitter's bot problem?</b><br><u>Varol O.</u><br><i>Under review</i>",
+        "text": "<b>Should we agree to disagree about Twitter's bot problem?</b><br><u>Varol O.</u><br><i>Online Social Networks and Media 37 (2023): 100263.</i>",
         "links":[
+            {
+                "source": "https://www.sciencedirect.com/science/article/pii/S2468696423000228",
+                "name": "Journal"
+            },
+            {
+                "source": "files/2023-osnem-botfaq.pdf",
+                "name": "PDF"
+            },
             {
                 "source": "https://arxiv.org/abs/2209.10006",
                 "name": "ArXiv"
@@ -63,6 +71,10 @@
             {
                 "source": "https://twitter.com/onurvarol/status/1590600414713434113",
                 "name": "twitter"
+            },
+            {
+                "source": "bibtex/botfaq2023osnem.bib",
+                "name": "BibTeX"
             }
         ]
     },
