@@ -1,5 +1,18 @@
 [
     {
+        "type": "preprint",
+        "year": 2023,
+        "topics": ["Data Science"],
+        "image": "images/hidden-citations.png",
+        "text": "<b>Hidden Citations Obscure True Impact in Science</b><br>Meng X., <u>Varol O.</u>, Barabasi AL.<br><i>In press</i>",
+        "links":[
+            {
+                "source":"https://arxiv.org/abs/2310.16181",
+                "name":"ArXiv"
+            }
+        ]
+    },
+    {
         "type": "conference",
         "year": 2023,
         "topics": ["Data Science","VRLLab", "Comp. Soc. Sci."],
