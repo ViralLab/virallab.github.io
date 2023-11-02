@@ -2,9 +2,22 @@
     {
         "type": "preprint",
         "year": 2023,
+        "topics": ["Data Science", "VRLLab"],
+        "image": "images/yasser-anomaly-detection.png",
+        "text": "<b>Unsupervised detection of coordinated fake-follower campaigns on social media</b><br>Yasser Zouzou, <u>Onur Varol</u><br><i>Under review</i>",
+        "links":[
+            {
+                "source":"https://arxiv.org/abs/2310.20407",
+                "name":"ArXiv"
+            }
+        ]
+    },
+    {
+        "type": "preprint",
+        "year": 2023,
         "topics": ["Data Science"],
         "image": "images/hidden-citations.png",
-        "text": "<b>Hidden Citations Obscure True Impact in Science</b><br>Meng X., <u>Varol O.</u>, Barabasi AL.<br><i>In press</i>",
+        "text": "<b>Hidden Citations Obscure True Impact in Science</b><br>Meng X., <u>Varol O.</u>, Barabasi AL.<br><i>Under review</i>",
         "links":[
             {
                 "source":"https://arxiv.org/abs/2310.16181",
