@@ -513,7 +513,7 @@
     {
         "id": "alper-karadeniz",
         "name": "Hüseyin Alper Karadeniz",
-        "role": "Undergraduate",
+        "role": "Alumni",
         "education": [
 
         ],
@@ -557,6 +557,22 @@
         "bio": "Dr. Yasemin Tosun completed her Ph.D. in Political Science at Sabancı University. Her dissertation focuses on the relationship between political representation and protest behavior and utilizes various statistical analyses with using the data from worldwide conducted surveys. She also has experience in designing and conducting experimental studies. Yasemin has an extensive knowledge of research methodology, gained through assisting courses ranging from quantitative research methods to formal modeling during her doctoral education. She obtained a TUBITAK pre-doctoral research grant, which allowed her to spend six months at the University of Texas at Austin studying with Professor Zeynep Somer-Topçu. Additionally, Yasemin was awarded the TUBITAK 1002 - Short Term R&amp;D Funding to conduct a survey experiment as part of her dissertation. Yasemin joined Viral Lab as a post-doctoral researcher in September 2023, motivated to integrate computational tools into her studies. Her goal is to connect different data sources from representative surveys and social media to analyze political behavior. She has experience working with various software programs, namely STATA and R.",
         "links": {
             "linkedin": "https://www.linkedin.com/in/yasemin-tosun-8291711b9/"
+        }
+    },
+
+    {
+        "id": "alp-yener",
+        "name": "Alp Yener",
+        "role": "Undergraduate",
+        "education": [
+            
+        ],
+        "img": "pictures/alp-yener.jpg",
+        "about": "Computer Science BSc and Math minor Student",
+        "bio": "Alp Önder Yener is an undergraduate Computer Science and Engineering student, who is also minoring in Mathematics in Sabanci University. He is working on the fields of data science and its mix with social sciences. He is improving himself in the fields of data science and deep learning.",
+        "links": {
+            "linkedin": "https://www.linkedin.com/in/alp-onder-yener/",
+            "github": "https://github.com/alpYener123"
         }
     }
 
