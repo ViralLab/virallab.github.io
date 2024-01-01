@@ -2,6 +2,19 @@
     {
         "type": "preprint",
         "year": 2023,
+        "topics": ["Machine Learning", "Comp. Soc. Sci."],
+        "image": "images/bot-bookchapter.png",
+        "text": "<b>Social Bots: Detection and Challenges</b><br>Kai-Cheng Yang, <u>Onur Varol</u>, Alexander C. Nwala, Mohsen Sayyadiharikandeh, Emilio Ferrara, Alessandro Flammini, Filippo Menczer<br><i>In press</i>",
+        "links":[
+            {
+                "source":"https://arxiv.org/abs/2312.17423",
+                "name":"ArXiv"
+            }
+        ]
+    },
+    {
+        "type": "preprint",
+        "year": 2023,
         "topics": ["Machine Learning", "VRLLab"],
         "image": "images/2023-turkishbertweet.jpg",
         "text": "<b>TurkishBERTweet: Fast and Reliable Large Language Model for Social Media Analysis</b><br>Ali Najafi, <u>Onur Varol</u><br><i>Under review</i>",
