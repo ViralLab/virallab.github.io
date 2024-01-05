@@ -1,6 +1,19 @@
 [
     {
         "type": "preprint",
+        "year": 2024,
+        "topics": ["Data Science", "VRLLab"],
+        "image": "images/infoops.png",
+        "text": "<b>Politics and Propaganda on Social Media: How Twitter and Meta Moderate State-Linked Information Operations</b><br>Nihat Mugurtay, Umut Duygu, <u>Onur Varol</u><br><i>Under review</i>",
+        "links":[
+            {
+                "source":"https://arxiv.org/abs/2401.02095",
+                "name":"ArXiv"
+            }
+        ]
+    },
+    {
+        "type": "preprint",
         "year": 2023,
         "topics": ["Machine Learning", "Comp. Soc. Sci."],
         "image": "images/bot-bookchapter.png",
