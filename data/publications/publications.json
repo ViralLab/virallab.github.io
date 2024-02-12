@@ -1,10 +1,31 @@
 [
     {
+        "type": "journal",
+        "year": 2024,
+        "topics": ["Data Science", "Comp. Soc. Sci.","VRLLab"],
+        "image": "images/2024-covid19.jpg",
+        "text": "<b>Mechanisms Driving Online Vaccine Debate During the COVID-19 Pandemic</b><br>Ozgur Can Seckin, Aybuke Atalay, Ege Otenen, Umut Duygu, Onur Varol<br><i>Social Media + Society, 10(1).</i>",
+        "links":[
+            {
+                "source":"files/2024-sms-covid19.pdf",
+                "name":"PDF"
+            },
+            {
+                "source":"https://journals.sagepub.com/doi/10.1177/20563051241229657",
+                "name":"Journal"
+            },
+            {
+                "source": "bibtex/sms2024covid.bib",
+                "name": "BibTeX"
+            }
+        ]
+    },
+    {
         "type": "preprint",
         "year": 2024,
         "topics": ["Data Science", "VRLLab"],
         "image": "images/infoops.png",
-        "text": "<b>Politics and Propaganda on Social Media: How Twitter and Meta Moderate State-Linked Information Operations</b><br>Nihat Mugurtay, Umut Duygu, <u>Onur Varol</u><br><i>Under review</i>",
+        "text": "<b>Politics and Propaganda on Social Media: How Twitter and Meta Moderate State-Linked Information Operations</b><br>Nihat Mugurtay, Umut Duygu, Onur Varol<br><i>Under review</i>",
         "links":[
             {
                 "source":"https://arxiv.org/abs/2401.02095",
@@ -30,7 +51,7 @@
         "year": 2023,
         "topics": ["Machine Learning", "VRLLab"],
         "image": "images/2023-turkishbertweet.jpg",
-        "text": "<b>TurkishBERTweet: Fast and Reliable Large Language Model for Social Media Analysis</b><br>Ali Najafi, <u>Onur Varol</u><br><i>Under review</i>",
+        "text": "<b>TurkishBERTweet: Fast and Reliable Large Language Model for Social Media Analysis</b><br>Ali Najafi, Onur Varol<br><i>Under review</i>",
         "links":[
             {
                 "source":"https://arxiv.org/abs/2311.18063",
@@ -47,7 +68,7 @@
         "year": 2023,
         "topics": ["Data Science", "VRLLab"],
         "image": "images/yasser-anomaly-detection.png",
-        "text": "<b>Unsupervised detection of coordinated fake-follower campaigns on social media</b><br>Yasser Zouzou, <u>Onur Varol</u><br><i>Under review</i>",
+        "text": "<b>Unsupervised detection of coordinated fake-follower campaigns on social media</b><br>Yasser Zouzou, Onur Varol<br><i>Under review</i>",
         "links":[
             {
                 "source":"https://arxiv.org/abs/2310.20407",
@@ -73,7 +94,7 @@
         "year": 2023,
         "topics": ["Data Science","VRLLab", "Comp. Soc. Sci."],
         "image": "images/siu2023varol.png",
-        "text": "<b>Who Follows Turkish Presidential Candidates in 2023 Elections?</b><br><u>Onur Varol</u><br><i>Signal Processing and Communications Applications Conference (Turkish)</i>",
+        "text": "<b>Who Follows Turkish Presidential Candidates in 2023 Elections?</b><br>Onur Varol<br><i>Signal Processing and Communications Applications Conference (Turkish)</i>",
         "links":[
             {
                 "source":"files/2023-siuvarol.pdf",
@@ -123,7 +144,7 @@
         "year": 2022,
         "topics": ["Data Science", "VRLLab"],
         "image": "images/secimdataset2022.png",
-        "text": "<b>#Secim2023: First Public Dataset for Studying Turkish General Election</b><br>Najafi A., Mugurtay N., Demirci E., Demirkiran S., Karadeniz HA., <u>Varol O.</u><br><i>Under review</i>",
+        "text": "<b>#Secim2023: First Public Dataset for Studying Turkish General Election</b><br>Najafi A., Mugurtay N., Demirci E., Demirkiran S., Karadeniz HA., Varol O.<br><i>Under review</i>",
         "links":[
             {
                 "source":"https://arxiv.org/abs/2211.13121",
@@ -144,7 +165,7 @@
         "year": 2023,
         "topics": ["Comp. Soc. Sci.", "Data Science", "VRLLab"],
         "image": "images/varol2022musk.png",
-        "text": "<b>Should we agree to disagree about Twitter's bot problem?</b><br><u>Varol O.</u><br><i>Online Social Networks and Media 37 (2023): 100263.</i>",
+        "text": "<b>Should we agree to disagree about Twitter's bot problem?</b><br>Varol O.<br><i>Online Social Networks and Media 37 (2023): 100263.</i>",
         "links":[
             {
                 "source": "https://www.sciencedirect.com/science/article/pii/S2468696423000228",
@@ -173,7 +194,7 @@
         "year": 2022,
         "topics": ["Comp. Soc. Sci.", "Network Science", "VRLLab"],
         "image": "images/support-network.png",
-        "text": "<b>Academic Support Network Reflects Doctoral Experience and Productivity</b><br>Seckin O.C., <u>Varol O.</u><br><i>EPJ Data Sci. 11, 57 (2022)</i>",
+        "text": "<b>Academic Support Network Reflects Doctoral Experience and Productivity</b><br>Seckin O.C., Varol O.<br><i>EPJ Data Sci. 11, 57 (2022)</i>",
         "links":[
             {
                 "source": "https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-022-00369-z",
