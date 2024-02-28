@@ -574,6 +574,21 @@
             "linkedin": "https://www.linkedin.com/in/alp-onder-yener/",
             "github": "https://github.com/alpYener123"
         }
+    },
+
+    {
+        "id": "asude-nur-emecan",
+        "name": "Asude Nur Emecan",
+        "role": "Undergraduate",
+        "education": [
+            
+        ],
+        "img": "pictures/asude-nur-emecan.jpg",
+        "about": "Computer Science and Management BSc (dual major)",
+        "bio": "Asude Nur Emecan is an undergraduate Computer Science and Engineering student, who is also doing a double major in Management at Sabanci University. She is currently focused on advancing her data science and machine learning skills, building upon her computer science education.",
+        "links": {
+            "linkedin": "https://www.linkedin.com/in/asude-emecan"
+        }
     }
 
 
