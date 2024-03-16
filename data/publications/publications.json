@@ -1,4 +1,26 @@
 [
+    
+    {
+        "type": "conference",
+        "year": 2024,
+        "topics": ["Machine Learning","VRLLab"],
+        "image": "images/eacl2024.png",
+        "text": "<b>VRLLab at HSD-2Lang 2024: Turkish Hate Speech Detection Online with TurkishBERTweet</b><br>Ali Najafi, Onur Varol<br><i>Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE 2024)</i>",
+        "links":[
+            {
+                "source":"files/2024-case-hsd.pdf",
+                "name":"PDF"
+            },
+            {
+                "source":"https://aclanthology.org/2024.case-1.25/",
+                "name":"ACL"
+            },
+            {
+                "source": "bibtex/eacl2024hsd.bib",
+                "name": "BibTeX"
+            }
+        ]
+    },
     {
         "type": "journal",
         "year": 2024,
