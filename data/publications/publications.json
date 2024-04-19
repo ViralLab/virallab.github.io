@@ -1,4 +1,37 @@
 [
+    {
+        "type": "journal",
+        "year": 2024,
+        "topics": ["Data Science", "VRLLab"],
+        "image": "images/secimdataset2022.png",
+        "text": "<b>First public dataset to study 2023 Turkish general election</b><br>Ali Najafi, Nihat Mugurtay, Yasser Zouzour, Ege Demirci, Serhat Demirkiran, H. Alper Karadeniz, Onur Varol<br><i>Scientific Reports 14, 8794 (2024)</i>",
+        "links":[
+            {
+                "source": "https://link.springer.com/article/10.1038/s41598-024-58006-w",
+                "name": "Journal"
+            },
+            {
+                "source": "files/2024-secim2023-dataset.pdf",
+                "name": "PDF"
+            },
+            {
+                "source":"https://arxiv.org/abs/2211.13121",
+                "name":"ArXiv"
+            },
+            {
+                "source": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FQJA1ZW",
+                "name": "Dataset"
+            },
+            {
+                "source": "https://github.com/ViralLab/Secim2023_Dataset",
+                "name": "Github"
+            },
+            {
+                "source": "bibtex/scirep2024secim.bib",
+                "name": "BibTeX"
+            }
+        ]
+    },
     
     {
         "type": "conference",
@@ -158,27 +191,6 @@
             {
                 "source": "bibtex/pfeffer2023just.bib",
                 "name": "BibTeX"
-            }
-        ]
-    },
-    {
-        "type": "preprint",
-        "year": 2022,
-        "topics": ["Data Science", "VRLLab"],
-        "image": "images/secimdataset2022.png",
-        "text": "<b>#Secim2023: First Public Dataset for Studying Turkish General Election</b><br>Najafi A., Mugurtay N., Demirci E., Demirkiran S., Karadeniz HA., Varol O.<br><i>Under review</i>",
-        "links":[
-            {
-                "source":"https://arxiv.org/abs/2211.13121",
-                "name":"ArXiv"
-            },
-            {
-                "source": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FQJA1ZW",
-                "name": "Dataset"
-            },
-            {
-                "source": "https://github.com/ViralLab/Secim2023_Dataset",
-                "name": "Github"
             }
         ]
     },
