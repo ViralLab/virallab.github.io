@@ -620,6 +620,22 @@
         "links": {
             "github": "https://github.com/batuhanbhc"
         }
+    },
+
+    {
+        "id": "kaan-guray-sirin",
+        "name": "Kaan Güray Şirin",
+        "role": "Undergraduate",
+        "education": [
+            
+        ],
+        "img": "pictures/kaan-guray-sirin.jpg",
+        "about": "Computer Science BSc",
+        "bio": "Kaan Güray Şirin is an undergraduate Computer Science and Engineering student at Sabanci University. Currently he is working in the fields of data science and network science. He is also trying to improve his knowledge on machine learning and artificial intelligence.",
+        "links": {
+            "linkedin": "http://www.linkedin.com/in/kaan-%C5%9Firin-5732462ba",
+            "github": "https://github.com/KaanSirin"
+        }
     }
 
 ]
