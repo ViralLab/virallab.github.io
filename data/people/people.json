@@ -605,6 +605,21 @@
             "linkedin": "https://www.linkedin.com/in/erdendamla/",
             "github": "https://github.com/derdenn"
         }
+    },
+
+    {
+        "id": "batuhan-bahceci",
+        "name": "Batuhan Bahçeci",
+        "role": "Undergraduate",
+        "education": [
+            
+        ],
+        "img": "pictures/batuhan-bahceci.jpg",
+        "about": "Computer Science BSc",
+        "bio": "Batuhan Bahçeci is an undergraduate Computer Science and Engineering student at Sabanci University. Apart from his core studies, he is actively working on improving his data science and artificial intelligence skills. Currently, he is involved in data science projects that intersect with social sciences and astrophysics.",
+        "links": {
+            "github": "https://github.com/batuhanbhc"
+        }
     }
 
 ]
