@@ -67,7 +67,7 @@
         "role": "Alumni",
         "next": "Data Governance Analyst, The Coca-Cola Company",
         "img": "pictures/baris-temel.png",
-        "about": "Data Science MSc student",
+        "about": "Data Science MSc",
         "links": {
             "linkedin": "https://www.linkedin.com/in/baris-temel/"
         },
@@ -85,7 +85,7 @@
         "role": "Alumni",
         "next": "Data scientist at Afiniti",
         "img": "pictures/mutlu-soruklu.jpg",
-        "about": "Data Science MSc student",
+        "about": "Data Science MSc",
         "links": {
             "website": "https://msoruklu.github.io/",
             "linkedin": "https://www.linkedin.com/in/mutlu-soruklu-888755171/",
@@ -104,7 +104,7 @@
         "role": "Alumni",
         "next": "PhD Informatics at Indiana University",
         "img": "pictures/ozgur-can-seckin.jpg",
-        "about": "Data Science MSc student",
+        "about": "Data Science MSc",
         "links": {
             "website": "https://www.ozgurcanseckin.com/",
             "linkedin": "https://www.linkedin.com/in/%C3%B6zg%C3%BCr-can-se%C3%A7kin-443056134/"
@@ -121,7 +121,7 @@
         "role": "Alumni",
         "next": "Associate Management Consulting at PwC Türkiye",
         "img": "pictures/davut-bayik.jpg",
-        "about": "Data Science MSc student",
+        "about": "Data Science MSc",
         "links": {
             "linkedin": "https://www.linkedin.com/in/davutbayik/"
         },
@@ -137,7 +137,7 @@
         "name": "Özgün Yargı",
         "role": "PhD",
         "img": "pictures/ozgun-yargi.jpg",
-        "about": "Computer Science PhD student",
+        "about": "Computer Science PhD",
         "links": {
             "linkedin": "https://www.linkedin.com/in/%C3%B6zg%C3%BCn-yarg%C4%B1-681718162/",
             "github": "https://github.com/ozgunyargi"
@@ -155,7 +155,7 @@
         "role": "Alumni",
         "next": "",
         "img": "pictures/umut-duygu.jpeg",
-        "about": "Political Science MA student",
+        "about": "Political Science MA",
         "links": {
             "website": "https://umutduygu.github.io/",
             "linkedin": "https://www.linkedin.com/in/umutduygu/"
@@ -174,7 +174,7 @@
         "role": "Alumni",
         "next": "Data Scientist at Spyke Games",
         "img": "pictures/mert-ozturk.jpg",
-        "about": "Data Science MSc student",
+        "about": "Data Science MSc",
         "links": {
             "website": "https://merttozturrk.github.io/",
             "linkedin": "https://www.linkedin.com/in/merttozturrk/"
@@ -191,7 +191,7 @@
         "role": "Alumni",
         "next": "MSc Computer Science, EPFL",
         "img": "pictures/gunes-basak-ozgun.jpg",
-        "about": "Computer Science & Engineering BSc student",
+        "about": "Computer Science & Engineering BSc",
         "links": {
             "website": "https://gozgun.github.io/",
             "linkedin": "https://www.linkedin.com/in/g%C3%BCne%C5%9F-%C3%B6zg%C3%BCn-6724b9151",
@@ -209,7 +209,7 @@
         "name": "Elif Nur Öztürk",
         "role": "Alumni",
         "img": "pictures/elif-nur-ozturk.png",
-        "about": "Computer Science & Engineering BSc student",
+        "about": "Computer Science & Engineering BSc",
         "links": {
             "linkedin": "https://www.linkedin.com/in/elif-nur-%C3%B6zt%C3%BCrk-52a667194/"
         },
@@ -222,7 +222,7 @@
         "name": "Omay Ece Ayyıldız",
         "role": "Alumni",
         "img": "pictures/omay-ece-ayyildiz.jpg",
-        "about": "Computer Science & Engineering BSc student",
+        "about": "Computer Science & Engineering BSc",
         "links": {
             "linkedin": "https://www.linkedin.com/in/omay-ece-ayy%C4%B1ld%C4%B1z-80655b134/"
         },
@@ -236,7 +236,7 @@
         "role": "Alumni",
         "next": "Data scientist at Trendyol",
         "img": "pictures/furkan-okuyucu.jpg",
-        "about": "Data Science MSc student",
+        "about": "Data Science MSc",
         "links": {
             "linkedin": "https://www.linkedin.com/in/furkan-okuyucu-004b24163/",
             "github": "https://github.com/bubblecounter"
@@ -254,7 +254,7 @@
         "role": "Alumni",
         "next": "Dual PhD, Informatics and Cognitive Science at Indiana University",
         "img": "pictures/ege-otenen.jpg",
-        "about": "Cognitive Psychology  MSc student",
+        "about": "Cognitive Psychology  MSc",
         "links": {
             "website": "http://www.egeotenen.com/",
             "linkedin": "https://www.linkedin.com/in/ege-otenen-1a89b1149/"
@@ -270,7 +270,7 @@
         "name": "Doğukan Kefeli",
         "role": "Alumni",
         "img": "pictures/dogukan-kefeli.jpg",
-        "about": "Physics Engineering  BSc student",
+        "about": "Physics Engineering  BSc",
         "links": {
             "website": "https://dogukanburda.github.io/",
             "github": "https://github.com/dogukanburda/",
@@ -285,7 +285,7 @@
         "name": "Serhat Demirkıran",
         "role": "Master's",
         "img": "pictures/serhat-demirkiran.jpg",
-        "about": "Data Science MSc student",
+        "about": "Data Science MSc",
         "links": {
             "github": "https://github.com/demirkirans",
             "linkedin": "https://www.linkedin.com/in/serhat-demirk%C4%B1ran-09a2a884/"
@@ -301,7 +301,7 @@
         "name": "Arda Zengin",
         "role": "Alumni",
         "img": "pictures/fatih-arda-zengin.jpg",
-        "about": "Computer Science & Engineering BSc student",
+        "about": "Computer Science & Engineering BSc",
         "links": {
             "github": "https://github.com/fatihardazengin",
             "linkedin": "https://www.linkedin.com/in/fatihaz",
@@ -316,7 +316,7 @@
         "name": "Ege Demirci",
         "role": "Undergraduate",
         "img": "pictures/ege-demirci.jpg",
-        "about": "Computer Science & Engineering BSc student",
+        "about": "Computer Science & Engineering BSc",
         "links": {
             "github": "https://github.com/egedemirci",
             "linkedin": "https://www.linkedin.com/in/egedemirci/"
@@ -432,7 +432,7 @@
             "MSc in Executive Management, Islamic Azad University, 2017"
         ],
         "img": "pictures/vahid-khalili.jpg",
-        "about": "Computer Science PhD Student",
+        "about": "Computer Science PhD",
         "bio": "Vahid Khalili Param is a Computer Science Ph.D. student at Sabanci University. He was involved in several projects with main focus on opinion dynamics and sentiment analysis on social media. He holds a Master’s degree in Executive Management from Islamic Azad University, Science and Research Branch in Iran. His research interest is the emerging intersection of data analytics, social physics, and computational social science to study the dynamics of human collective behavior under the influence of the social digital interactions of individuals. Social innovation, civic engagement, and data-driven policy-making platforms are also his research interests as connecting dots to his future academic life. He was involved in a research project for a national call during a pandemic where he used social media content analysis, sentiment analysis, NLP, and other techniques to extract opinions and emotions from objective social media data. He has a professional background of social media strategist and growth hack mentoring for several companies and start-ups in Iran.",
         "links": {
             "website": "https://www.v-idea.ir",
@@ -449,7 +449,7 @@
             "BSc in Computer Engineering, University of Tabriz, 2021"
         ],
         "img": "pictures/ali-najafi.jpg",
-        "about": "Computer Science MSc Student",
+        "about": "Computer Science MSc",
         "bio": "He is a Computer Science Master's Student at Sabanci University interested in solving real-world challenges with NLP.",
         "links": {
             "website": "http://najafi-ali.com/",
@@ -468,7 +468,7 @@
             "BSc in Civil Engineering, Damascus University, 2018"
         ],
         "img": "pictures/yasser-zouzou.jpg",
-        "about": "Data Science MSc Student",
+        "about": "Data Science MSc",
         "bio": "Yasser is a Data Science MSc student at Sabancı University interested in utilizing data analytics and machine learning to address real world problems.",
         "links": {
             "linkedin": "https://www.linkedin.com/in/yasserzouzou/",
@@ -484,7 +484,7 @@
             "BSc in Computer Science and Engineering, Sabanci University, 2022"
         ],
         "img": "pictures/aysegul-rana-erdemli.jpg",
-        "about": "Computer Science MSc Student",
+        "about": "Computer Science MSc",
         "bio": "Aysegul Rana is currently working on her MSc studies in Sabanci University, Computer Science and Engineering program. She graduated from the same program in Summer 2022. She is interested in computational social sciences, network science, distributed systems and digital humanities. She is working as a Backend Software Engineer in a Milan based company, Bending Spoons. She would like to continue doing research on using computer science as a tool for social sciences and art studies.",
         "links": {
             "linkedin": "https://www.linkedin.com/in/aysegul-rana-erdemli-4b022b173/",
@@ -501,7 +501,7 @@
             "BSc in Mechatronics Engineering, Istanbul Bilgi University, 2020"
         ],
         "img": "pictures/hasan-kemik.jpg",
-        "about": "Computer Science MSc Student",
+        "about": "Computer Science MSc",
         "bio": "Hasan Kemik is a MSc. Student at Sabancı University Computer Science program. He hold bachelor’s degrees in Computer Engineering and Mechatronics Engineering from Istanbul Bilgi University. He’s been working with various NLP problems focused on Turkish for 2 years and currently interested in chatbots, conversational ai.",
         "links": {
             "scholar": "https://scholar.google.com/citations?user=cuU1gNMAAAAJ&hl=en",
@@ -518,7 +518,7 @@
 
         ],
         "img": "pictures/alper-karadeniz.jpg",
-        "about": "Computer Science BSc and Management BA Student",
+        "about": "Computer Science BSc and Management BA",
         "bio": "Hüseyin Alper Karadeniz is an undergraduate student at Sabanci University, pursuing his double major in B.Sc. in Computer Science & Engineering and B.A. in Management. He is particularly interested in product development and software engineering with the help of machine learning and data science.",
         "links": {
             "website": "http://halperk.net/",
@@ -535,7 +535,7 @@
             
         ],
         "img": "pictures/alper-buyukalaca.jpg",
-        "about": "Computer Science BSc and Math minor Student",
+        "about": "Computer Science BSc and Math minor",
         "bio": "Alper Büyükalaca is an undergraduate Computer Science and Engineering student at Sabanci University. Besides his major, he is doing a minor in Mathematics and works as a student researcher at TÜBİTAK. He is interested in practical & theoretic applications of artificial intelligence and machine learning models.",
         "links": {
             "linkedin": "https://www.linkedin.com/in/alper-b%C3%BCy%C3%BCkalaca/",
@@ -568,7 +568,7 @@
             
         ],
         "img": "pictures/alp-yener.jpg",
-        "about": "Computer Science BSc and Math minor Student",
+        "about": "Computer Science BSc and Math minor",
         "bio": "Alp Önder Yener is an undergraduate Computer Science and Engineering student, who is also minoring in Mathematics in Sabanci University. He is working on the fields of data science and its mix with social sciences. He is improving himself in the fields of data science and deep learning.",
         "links": {
             "linkedin": "https://www.linkedin.com/in/alp-onder-yener/",
@@ -599,7 +599,7 @@
             "BSc in Mathematics, Middle East Technical University, 2021"
         ],
         "img": "pictures/damla-erden.jpg",
-        "about": "Data Science MSc Student",
+        "about": "Data Science MSc",
         "bio": "Damla is a Data Science Master's student at Sabancı University and received her bachelor's degree in Mathematics from METU in 2021. She is interested in computational social science and in solving real-world problems using artificial intelligence.",
         "links": {
             "linkedin": "https://www.linkedin.com/in/erdendamla/",
@@ -635,6 +635,37 @@
         "links": {
             "linkedin": "http://www.linkedin.com/in/kaan-%C5%9Firin-5732462ba",
             "github": "https://github.com/KaanSirin"
+        }
+    },
+
+    {
+        "id": "fazli-goktug-yilmaz",
+        "name": "Fazlı Göktuğ Yılmaz",
+        "role": "Undergraduate",
+        "education": [
+            
+        ],
+        "img": "pictures/fazli-goktug-yilmaz.jpg",
+        "about": "Computer Science BSc",
+        "bio": "Fazlı Göktuğ Yılmaz is an undergraduate student in Computer Science and Engineering at Sabancı University. Alongside his academic studies, he actively contributes to projects in data science. Additionally, he is focused on advancing his skills in artificial intelligence and machine learning.",
+        "links": {
+            "linkedin": "https://www.linkedin.com/in/fazl%C4%B1-g%C3%B6ktu%C4%9F-y%C4%B1lmaz-79664a170/"
+        }
+    },
+
+    {
+        "id": "ayca-demir",
+        "name": "Ayça Demir",
+        "role": "Undergraduate",
+        "education": [
+            
+        ],
+        "img": "pictures/ayca-demir.jpg",
+        "about": "Computer Science and Mechatronics Engineering BSc (dual major)",
+        "bio": "Ayça Demir is an undergraduate student at Sabancı University, pursuing a double major in Computer Science and Engineering and Mechatronics Engineering. Her academic interests lie in the fields of Data Science, Machine Learning, and Artificial Intelligence. She is dedicated to deepening her knowledge and expertise in these areas.",
+        "links": {
+            "linkedin": "https://www.linkedin.com/in/ay%C3%A7a-demir-08b1aa271/",
+            "github": "https://github.com/aycademir"
         }
     }
 
