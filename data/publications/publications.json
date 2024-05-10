@@ -2,6 +2,32 @@
     {
         "type": "journal",
         "year": 2024,
+        "topics": ["Data Science"],
+        "image": "images/hidden-citations.png",
+        "text": "<b>Hidden Citations Obscure True Impact in Science</b><br>Meng X., <u>Varol O.</u>, Barabasi AL.<br><i>PNAS Nexus 3, no. 5 (2024)</i>",
+        "links":[
+            {
+                "source": "https://academic.oup.com/pnasnexus/article/3/5/pgae155/7664049",
+                "name": "Journal"
+            },
+            {
+                "source": "files/2024-pnas-hiddencitations.pdf",
+                "name": "PDF"
+            },
+            {
+                "source":"https://arxiv.org/abs/2310.16181",
+                "name":"ArXiv"
+            },
+            {
+                "source": "bibtex/pnas2024hidden.bib",
+                "name": "BibTeX"
+            }
+        ]
+    },
+
+    {
+        "type": "journal",
+        "year": 2024,
         "topics": ["Data Science", "VRLLab"],
         "image": "images/secimdataset2022.png",
         "text": "<b>First public dataset to study 2023 Turkish general election</b><br>Ali Najafi, Nihat Mugurtay, Yasser Zouzour, Ege Demirci, Serhat Demirkiran, H. Alper Karadeniz, Onur Varol<br><i>Scientific Reports 14, 8794 (2024)</i>",
@@ -131,19 +157,7 @@
             }
         ]
     },
-    {
-        "type": "preprint",
-        "year": 2023,
-        "topics": ["Data Science"],
-        "image": "images/hidden-citations.png",
-        "text": "<b>Hidden Citations Obscure True Impact in Science</b><br>Meng X., <u>Varol O.</u>, Barabasi AL.<br><i>Under review</i>",
-        "links":[
-            {
-                "source":"https://arxiv.org/abs/2310.16181",
-                "name":"ArXiv"
-            }
-        ]
-    },
+
     {
         "type": "conference",
         "year": 2023,
