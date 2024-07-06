@@ -319,6 +319,7 @@
         "img": "pictures/ege-demirci.jpg",
         "about": "Computer Science & Engineering BSc",
         "links": {
+            "website": "https://egedemirci.net/",
             "github": "https://github.com/egedemirci",
             "linkedin": "https://www.linkedin.com/in/egedemirci/"
         },
