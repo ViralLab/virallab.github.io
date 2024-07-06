@@ -314,7 +314,8 @@
     {
         "id": "edemirci",
         "name": "Ege Demirci",
-        "role": "Undergraduate",
+        "role": "Alumni",
+        "next": "PhD, Computer Science at University of California, Santa Barbara",
         "img": "pictures/ege-demirci.jpg",
         "about": "Computer Science & Engineering BSc",
         "links": {
@@ -322,7 +323,9 @@
             "linkedin": "https://www.linkedin.com/in/egedemirci/"
         },
         "bio": "Ege Demirci is an undergraduate Computer Science and Engineering student at Sabanci University. He is currently trying to improve himself in the fields of data science and machine learning, apart from the computer science education he received at school. He is particularly interested in researching social sciences with the help of Data Science and Machine Learning.",
-        "education": []
+        "education": [
+            "BSc in Computer Science, Sabanci University, 2024"
+        ]
     },
 
     {
@@ -530,7 +533,7 @@
     {
         "id": "alper-buyukalaca",
         "name": "Alper Büyükalaca",
-        "role": "Undergraduate",
+        "role": "Alumni",
         "education": [
             
         ],
