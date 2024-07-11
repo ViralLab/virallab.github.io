@@ -128,12 +128,16 @@
         ]
     },
     {
-        "type": "preprint",
-        "year": 2023,
+        "type": "journal",
+        "year": 2024,
         "topics": ["Machine Learning", "VRLLab"],
         "image": "images/2023-turkishbertweet.jpg",
-        "text": "<b>TurkishBERTweet: Fast and Reliable Large Language Model for Social Media Analysis</b><br>Ali Najafi, Onur Varol<br><i>Under review</i>",
+        "text": "<b>TurkishBERTweet: Fast and Reliable Large Language Model for Social Media Analysis</b><br>Ali Najafi, Onur Varol<br><i>Expert Systems with Applications (In press)</i>",
         "links":[
+            {
+                "source": "https://authors.elsevier.com/sd/article/S0957-4174(24)01604-X",
+                "name": "Journal"
+            },
             {
                 "source":"https://arxiv.org/abs/2311.18063",
                 "name":"ArXiv"
