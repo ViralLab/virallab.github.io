@@ -11,12 +11,20 @@
                 "name": "Journal"
             },
             {
+                "source": "files/2024-turkishbertweet.pdf",
+                "name": "PDF"
+            },
+            {
                 "source":"https://arxiv.org/abs/2311.18063",
                 "name":"ArXiv"
             },
             {
                 "source":"https://github.com/ViralLab/TurkishBERTweet",
                 "name":"Github"
+            },
+            {
+                "source": "bibtex/turkishbertweet2024.bib",
+                "name": "BibTeX"
             }
         ]
     },
