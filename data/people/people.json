@@ -596,22 +596,6 @@
     },
 
     {
-        "id": "damla-erden",
-        "name": "Damla Erden",
-        "role": "Master's",
-        "education": [
-            "BSc in Mathematics, Middle East Technical University, 2021"
-        ],
-        "img": "pictures/damla-erden.jpg",
-        "about": "Data Science MSc",
-        "bio": "Damla is a Data Science Master's student at Sabancı University and received her bachelor's degree in Mathematics from METU in 2021. She is interested in computational social science and in solving real-world problems using artificial intelligence.",
-        "links": {
-            "linkedin": "https://www.linkedin.com/in/erdendamla/",
-            "github": "https://github.com/derdenn"
-        }
-    },
-
-    {
         "id": "batuhan-bahceci",
         "name": "Batuhan Bahçeci",
         "role": "Undergraduate",

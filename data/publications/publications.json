@@ -28,6 +28,51 @@
             }
         ]
     },
+
+    {
+        "type": "conference",
+        "year": 2024,
+        "topics": ["Data Science","VRLLab", "Comp. Soc. Sci."],
+        "image": "images/2024-siu-influencer.png",
+        "text": "<b>Instagram Account Classification: Influencer vs. Company Profiles</b><br>Ozgun Yargi, Onur Varol<br><i>Signal Processing and Communications Applications Conference (Turkish)</i>",
+        "links":[
+            {
+                "source":"files/2024-siu-influencer.pdf",
+                "name":"PDF"
+            },
+            {
+                "source":"https://doi.org/10.1109/SIU61531.2024.10600854",
+                "name":"IEEE"
+            },
+            {
+                "source": "bibtex/siu2024influencer.bib",
+                "name": "BibTeX"
+            }
+        ]
+    },
+
+    {
+        "type": "conference",
+        "year": 2024,
+        "topics": ["Data Science","VRLLab", "Comp. Soc. Sci."],
+        "image": "images/2024-siu-location.png",
+        "text": "<b>City-level User Location Detection from Social Media and Analysis of Political Participation</b><br>Alp Yener, Ali Najafi, Onur Varol<br><i>Signal Processing and Communications Applications Conference (Turkish)</i>",
+        "links":[
+            {
+                "source":"files/2024-siu-location.pdf",
+                "name":"PDF"
+            },
+            {
+                "source":"https://doi.org/10.1109/SIU61531.2024.10600825",
+                "name":"IEEE"
+            },
+            {
+                "source": "bibtex/siu2024location.bib",
+                "name": "BibTeX"
+            }
+        ]
+    },
+
     
     {
         "type": "journal",
