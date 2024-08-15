@@ -448,13 +448,14 @@
     {
         "id": "ali-najafi",
         "name": "Ali Najafi",
-        "role": "Master's",
+        "role": "PhD",
         "education": [
-            "BSc in Computer Engineering, University of Tabriz, 2021"
+            "BSc in Computer Engineering, University of Tabriz, 2021",
+            "MSc in Computer Science, Sabanci University, 2024"
         ],
         "img": "pictures/ali-najafi.jpg",
-        "about": "Computer Science MSc",
-        "bio": "He is a Computer Science Master's Student at Sabanci University interested in solving real-world challenges with NLP.",
+        "about": "Computer Science PhD",
+        "bio": "He is a Computer Science PhD Student at Sabanci University interested in solving real-world challenges with NLP.",
         "links": {
             "website": "http://najafi-ali.com/",
             "linkedin": "https://www.linkedin.com/in/najafi-ali1998/",
