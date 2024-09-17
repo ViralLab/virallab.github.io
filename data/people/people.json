@@ -467,8 +467,10 @@
     {
         "id": "yasser-zouzou",
         "name": "Yasser Zouzou",
-        "role": "Master's",
+        "role": "Alumni",
+        "next": "PhD, Computer Science at NYU, Abu Dhabi",
         "education": [
+            "MSc in Data Science, Sabanci University, 2024",
             "MSc in Civil Engineering, Erciyes University, 2022",
             "BSc in Civil Engineering, Damascus University, 2018"
         ],
@@ -655,6 +657,22 @@
         "links": {
             "linkedin": "https://www.linkedin.com/in/ay%C3%A7a-demir-08b1aa271/",
             "github": "https://github.com/aycademir"
+        }
+    },
+
+    {
+        "id": "Mehrdad Heshmat",
+        "name": "Mehrdad Heshmat",
+        "role": "Master's",
+        "education": [
+            "BSc in Computer Engineering, Urmia University, 2023"
+        ],
+        "img": "pictures/mehrdad-heshmat.jpg",
+        "about": "Computer Science MSc",
+        "bio": "Mehrdad is a Computer Science M.Sc. student at Sabanci University, with a Bachelor's degree in Computer Engineering from Urmia University. During his undergraduate studies, he focused on applying machine learning and deep learning techniques to healthcare and medical challenges. He has also worked as a Data Scientist and Machine Learning Engineer, designing, developing, and implementing various machine learning systems. Mehrdad is passionate about using analytical and computational methods to solve real-world problems, particularly through the application of NLP and Computer Vision.",
+        "links": {
+            "linkedin": "https://www.linkedin.com/in/mehrdad-heshmat/",
+            "github": "https://github.com/MR-EIGHT"
         }
     }
 
