@@ -204,12 +204,20 @@
     },
     
     {
-        "type": "preprint",
-        "year": 2023,
+        "type": "journal",
+        "year": 2024,
         "topics": ["Data Science", "VRLLab"],
         "image": "images/yasser-anomaly-detection.png",
-        "text": "<b>Unsupervised detection of coordinated fake-follower campaigns on social media</b><br>Yasser Zouzou, Onur Varol<br><i>Under review</i>",
+        "text": "<b>Unsupervised detection of coordinated fake-follower campaigns on social media</b><br>Yasser Zouzou, Onur Varol<br><i>EPJ Data Science</i>",
         "links":[
+            {
+                "source": "https://link.springer.com/article/10.1140/epjds/s13688-024-00499-6",
+                "name": "Journal"
+            },
+            {
+                "source": "files/2024-epjds-anomaly.pdf",
+                "name":"PDF"
+            },
             {
                 "source":"https://arxiv.org/abs/2310.20407",
                 "name":"ArXiv"
