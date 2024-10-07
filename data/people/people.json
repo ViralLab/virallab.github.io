@@ -661,7 +661,7 @@
     },
 
     {
-        "id": "Mehrdad Heshmat",
+        "id": "mehrdad-heshmat",
         "name": "Mehrdad Heshmat",
         "role": "Master's",
         "education": [
@@ -673,6 +673,21 @@
         "links": {
             "linkedin": "https://www.linkedin.com/in/mehrdad-heshmat/",
             "github": "https://github.com/MR-EIGHT"
+        }
+    },
+
+    {
+        "id": "erfan-tarmohammadi",
+        "name": "Erfan Tarmohammadi",
+        "role": "Master's",
+        "education": [
+            "BSc in Industrial Engineering, University of Tabriz, 2021"
+        ],
+        "img": "pictures/erfan-tarmohammadi.jpg",
+        "about": "Data Science MSc",
+        "bio": "He is a master's student in data science at Sabanci University and a member of VRL Lab. His research focuses on using AI models to solve problems in the finance domain, including empirical asset pricing, portfolio management, behavioral finance, and algorithmic trading.",
+        "links": {
+            "linkedin": "https://www.linkedin.com/in/erfan-tarmohammadi/"
         }
     }
 
