@@ -221,6 +221,10 @@
             {
                 "source":"https://arxiv.org/abs/2310.20407",
                 "name":"ArXiv"
+            },
+            {
+                "source": "bibtex/epjds2024anomaly.bib",
+                "name": "BibTeX"
             }
         ]
     },

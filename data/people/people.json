@@ -689,6 +689,22 @@
         "links": {
             "linkedin": "https://www.linkedin.com/in/erfan-tarmohammadi/"
         }
+    },
+
+    {
+        "id": "ahmet-taha-hahya",
+        "name": "Ahmet Taha Kahya",
+        "role": "Undergraduate",
+        "education": [
+            
+        ],
+        "img": "pictures/ahmet-taha-kahya.png",
+        "about": "Computer Science BSc and Math minor",
+        "bio": "Ahmet Taha Kahya is an undergraduate Computer Science and Engineering student at Sabancı University, who is also pursuing a minor in Mathematics. He is keen to expand his knowledge and gain research experience in the fields of data science, natural language processing, and artificial intelligence. In addition to his academic interests, he has practical experience in web development.",
+        "links": {
+            "linkedin": "https://www.linkedin.com/in/ahmet-taha-kahya-614b78246/",
+            "github": "https://github.com/taha-kahya"
+        }
     }
 
 ]
