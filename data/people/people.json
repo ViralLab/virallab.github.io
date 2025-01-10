@@ -486,12 +486,13 @@
     {
         "id": "aysegul-rana-erdemli",
         "name": "Aysegul Rana Erdemli",
-        "role": "Master's",
+        "role": "PhD",
         "education": [
-            "BSc in Computer Science and Engineering, Sabanci University, 2022"
+            "BSc in Computer Science and Engineering, Sabanci University, 2022",
+            "MSc in Computer Science, Sabanci University, 2024"
         ],
         "img": "pictures/aysegul-rana-erdemli.jpg",
-        "about": "Computer Science MSc",
+        "about": "Computer Science PhD student",
         "bio": "Aysegul Rana is currently working on her MSc studies in Sabanci University, Computer Science and Engineering program. She graduated from the same program in Summer 2022. She is interested in computational social sciences, network science, distributed systems and digital humanities. She is working as a Backend Software Engineer in a Milan based company, Bending Spoons. She would like to continue doing research on using computer science as a tool for social sciences and art studies.",
         "links": {
             "linkedin": "https://www.linkedin.com/in/aysegul-rana-erdemli-4b022b173/",
@@ -570,7 +571,7 @@
     {
         "id": "alp-yener",
         "name": "Alp Yener",
-        "role": "Undergraduate",
+        "role": "Alumni",
         "education": [
             
         ],

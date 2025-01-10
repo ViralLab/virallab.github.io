@@ -1,10 +1,50 @@
 [
     {
+        "type": "preprint",
+        "year": 2025,
+        "topics": ["Comp. Soc. Sci.", "VRLLab"],
+        "image": "images/macgym.png",
+        "text": "<b>From Occasional to Steady: Habit Formation Insights From a Comprehensive Fitness Study</b><br>Ege Demirci, Efe Tuzun, Ahmet Furkan Un, Taner Giray Sonmez, Onur Varol<br><i>Under review</i>",
+        "links":[
+            {
+                "source":"https://arxiv.org/abs/2501.01779",
+                "name":"ArXiv"
+            }
+        ]
+    },
+
+    {
+        "type": "journal",
+        "year": 2024,
+        "topics": ["Data Science", "VRLLab"],
+        "image": "images/yasser-anomaly-detection.png",
+        "text": "<b>Unsupervised detection of coordinated fake-follower campaigns on social media</b><br>Yasser Zouzou, Onur Varol<br><i>EPJ Data Science 13, 62 (2024)</i>",
+        "links":[
+            {
+                "source": "https://link.springer.com/article/10.1140/epjds/s13688-024-00499-6",
+                "name": "Journal"
+            },
+            {
+                "source": "files/2024-epjds-anomaly.pdf",
+                "name":"PDF"
+            },
+            {
+                "source":"https://arxiv.org/abs/2310.20407",
+                "name":"ArXiv"
+            },
+            {
+                "source": "bibtex/epjds2024anomaly.bib",
+                "name": "BibTeX"
+            }
+        ]
+    },
+
+    {
         "type": "journal",
         "year": 2024,
         "topics": ["Machine Learning", "VRLLab"],
         "image": "images/2023-turkishbertweet.jpg",
-        "text": "<b>TurkishBERTweet: Fast and Reliable Large Language Model for Social Media Analysis</b><br>Ali Najafi, Onur Varol<br><i>Expert Systems with Applications (In press)</i>",
+        "text": "<b>TurkishBERTweet: Fast and Reliable Large Language Model for Social Media Analysis</b><br>Ali Najafi, Onur Varol<br><i>Expert Systems with Applications</i>",
         "links":[
             {
                 "source": "https://authors.elsevier.com/sd/article/S0957-4174(24)01604-X",
@@ -24,6 +64,32 @@
             },
             {
                 "source": "bibtex/turkishbertweet2024.bib",
+                "name": "BibTeX"
+            }
+        ]
+    },
+
+    {
+        "type": "journal",
+        "year": 2024,
+        "topics": ["Data Science"],
+        "image": "images/hidden-citations.png",
+        "text": "<b>Hidden Citations Obscure True Impact in Science</b><br>Meng X., <u>Varol O.</u>, Barabasi AL.<br><i>PNAS Nexus 3, no. 5 (2024)</i>",
+        "links":[
+            {
+                "source": "https://academic.oup.com/pnasnexus/article/3/5/pgae155/7664049",
+                "name": "Journal"
+            },
+            {
+                "source": "files/2024-pnas-hiddencitations.pdf",
+                "name": "PDF"
+            },
+            {
+                "source":"https://arxiv.org/abs/2310.16181",
+                "name":"ArXiv"
+            },
+            {
+                "source": "bibtex/pnas2024hidden.bib",
                 "name": "BibTeX"
             }
         ]
@@ -73,32 +139,6 @@
         ]
     },
 
-    
-    {
-        "type": "journal",
-        "year": 2024,
-        "topics": ["Data Science"],
-        "image": "images/hidden-citations.png",
-        "text": "<b>Hidden Citations Obscure True Impact in Science</b><br>Meng X., <u>Varol O.</u>, Barabasi AL.<br><i>PNAS Nexus 3, no. 5 (2024)</i>",
-        "links":[
-            {
-                "source": "https://academic.oup.com/pnasnexus/article/3/5/pgae155/7664049",
-                "name": "Journal"
-            },
-            {
-                "source": "files/2024-pnas-hiddencitations.pdf",
-                "name": "PDF"
-            },
-            {
-                "source":"https://arxiv.org/abs/2310.16181",
-                "name":"ArXiv"
-            },
-            {
-                "source": "bibtex/pnas2024hidden.bib",
-                "name": "BibTeX"
-            }
-        ]
-    },
 
     {
         "type": "journal",
@@ -176,6 +216,7 @@
             }
         ]
     },
+
     {
         "type": "preprint",
         "year": 2024,
@@ -189,6 +230,7 @@
             }
         ]
     },
+
     {
         "type": "preprint",
         "year": 2023,
@@ -199,32 +241,6 @@
             {
                 "source":"https://arxiv.org/abs/2312.17423",
                 "name":"ArXiv"
-            }
-        ]
-    },
-    
-    {
-        "type": "journal",
-        "year": 2024,
-        "topics": ["Data Science", "VRLLab"],
-        "image": "images/yasser-anomaly-detection.png",
-        "text": "<b>Unsupervised detection of coordinated fake-follower campaigns on social media</b><br>Yasser Zouzou, Onur Varol<br><i>EPJ Data Science</i>",
-        "links":[
-            {
-                "source": "https://link.springer.com/article/10.1140/epjds/s13688-024-00499-6",
-                "name": "Journal"
-            },
-            {
-                "source": "files/2024-epjds-anomaly.pdf",
-                "name":"PDF"
-            },
-            {
-                "source":"https://arxiv.org/abs/2310.20407",
-                "name":"ArXiv"
-            },
-            {
-                "source": "bibtex/epjds2024anomaly.bib",
-                "name": "BibTeX"
             }
         ]
     },
