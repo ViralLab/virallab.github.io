@@ -602,7 +602,7 @@
     {
         "id": "batuhan-bahceci",
         "name": "Batuhan Bahçeci",
-        "role": "Undergraduate",
+        "role": "Alumni",
         "education": [
             
         ],
@@ -633,13 +633,13 @@
     {
         "id": "fazli-goktug-yilmaz",
         "name": "Fazlı Göktuğ Yılmaz",
-        "role": "Undergraduate",
+        "role": "Master's",
         "education": [
-            
+            "BSc in Computer Engineering, Sabanci University, 2024"
         ],
         "img": "pictures/fazli-goktug-yilmaz.jpg",
-        "about": "Computer Science BSc",
-        "bio": "Fazlı Göktuğ Yılmaz is an undergraduate student in Computer Science and Engineering at Sabancı University. Alongside his academic studies, he actively contributes to projects in data science. Additionally, he is focused on advancing his skills in artificial intelligence and machine learning.",
+        "about": "Data Science MSc",
+        "bio": "Fazlı Göktuğ Yılmaz is a Sabancı University graduate in Computer Science and Engineering at Sabancı University. Alongside his academic studies, he actively contributes to projects in data science. Additionally, he is focused on advancing his skills in artificial intelligence and machine learning.",
         "links": {
             "linkedin": "https://www.linkedin.com/in/fazl%C4%B1-g%C3%B6ktu%C4%9F-y%C4%B1lmaz-79664a170/"
         }
@@ -648,7 +648,7 @@
     {
         "id": "ayca-demir",
         "name": "Ayça Demir",
-        "role": "Undergraduate",
+        "role": "Alumni",
         "education": [
             
         ],
