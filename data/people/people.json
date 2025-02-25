@@ -706,6 +706,22 @@
             "linkedin": "https://www.linkedin.com/in/ahmet-taha-kahya-614b78246/",
             "github": "https://github.com/taha-kahya"
         }
+    },
+
+    {
+        "id": "hamit-efe-cinar",
+        "name": "Hamit Efe Çınar",
+        "role": "Undergraduate",
+        "education": [
+            
+        ],
+        "img": "pictures/hamit-efe-cinar.jpg",
+        "about": "Computer Science and Industrial Engineering Dual Major BSc",
+        "bio": "Hamit Efe Çınar is an undergraduate student double majoring in Computer Science and Engineering and Industrial Engineering, with minors in Mathematics and Business Analytics. He has internship experience in machine learning-driven data analytics and project experience in developing an RCNN architecture. He is currently deeply engaged in researching about Knowledge Representation and Reasoning and is eager to further his studies in this field.",
+        "links": {
+            "linkedin": "https://www.linkedin.com/in/efe-cinar/",
+            "github": "https://github.com/odulsuzkisafilm"
+        }
     }
 
 ]
