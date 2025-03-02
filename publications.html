@@ -127,7 +127,9 @@
 
                     for(var y=0; y < years.length; y++){
                         $('#publication-container').append('<h4>' + years[y] + '</h4>');
-                        var plist = _.filter(publications, function(p){ return p['year'] == years[y]; });
+                        var plist = _.filter(publications, function(p){ 
+                            return (p['year'] == years[y]) && (p['type'] != "thesis"); 
+                        });
                         _.each(plist, draw_publication);
                     }
 
@@ -135,7 +137,8 @@
                     var ttype = [['preprint', 'Preprints & Under submission'], 
                                  ['journal', 'Journal articles'], 
                                  ['conference', 'Conference proceedings'], 
-                                 ['book', 'Book chapters']];
+                                 ['book', 'Book chapters'],
+                                 ['thesis', 'Thesis & Dissertation']];
                     for (var t=0; t < ttype.length; t++){
                         var plist = _.filter(publications, function(p){ return p['type'] == ttype[t][0]; });
                         plist = _.sortBy(plist, function(p){ return -p['year']; });

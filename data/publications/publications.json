@@ -1,4 +1,5 @@
 [
+    
     {
         "type": "preprint",
         "year": 2025,
@@ -1376,5 +1377,160 @@
                 "name": "Video"
             }
         ]
+    },
+
+    {
+        "type": "thesis",
+        "year": 2022,
+        "topics": ["Thesis"],
+        "image": "images/thesis-2022-seckin.png",
+        "text": "<b>Academic Support Network Reflects Doctoral Experience and Productivity</b><br>Özgür Can Seçkin, <i>MSc Thesis in Data Science, 2022</i>",
+        "links":[
+            {
+                "source":"files/thesis-2022-seckin.pdf",
+                "name":"PDF"
+            }
+        ]
+    },
+
+    {
+        "type": "thesis",
+        "year": 2022,
+        "topics": ["Thesis"],
+        "image": "images/thesis-2022-ozturk.png",
+        "text": "<b>Daylight Saving Policies Affect Online Emotions</b><br>Mert Öztürk, <i>MSc Thesis in Data Science, 2022</i>",
+        "links":[
+            {
+                "source":"files/thesis-2022-ozturk.pdf",
+                "name":"PDF"
+            }
+        ]
+    },
+
+    {
+        "type": "thesis",
+        "year": 2022,
+        "topics": ["Thesis"],
+        "image": "images/thesis-2022-bayik.png",
+        "text": "<b>Quantifying Behavioral Complexities of Human and Bot Accounts Using Data Compression</b><br>Davut Bayık, <i>MSc Thesis in Data Science, 2022</i>",
+        "links":[
+            {
+                "source":"files/thesis-2022-bayik.pdf",
+                "name":"PDF"
+            }
+        ]
+    },
+
+    {
+        "type": "thesis",
+        "year": 2023,
+        "topics": ["Thesis"],
+        "image": "images/thesis-2023-temel.png",
+        "text": "<b>Detection and Characterizing Anomalous Followers on Social Media</b><br>Barış Temel, <i>MSc Thesis in Data Science, 2023</i>",
+        "links":[
+            {
+                "source":"files/thesis-2023-temel.pdf",
+                "name":"PDF"
+            }
+        ]
+    },
+
+    {
+        "type": "thesis",
+        "year": 2023,
+        "topics": ["Thesis"],
+        "image": "images/thesis-2023-yargi.png",
+        "text": "<b>Identifying Influencer Market Manipulations and Recommending Engaging Accounts</b><br>Özgün Yargı, <i>MSc Thesis in Data Science, 2023</i>",
+        "links":[
+            {
+                "source":"files/thesis-2023-yargi.pdf",
+                "name":"PDF"
+            }
+        ]
+    },
+
+    {
+        "type": "thesis",
+        "year": 2023,
+        "topics": ["Thesis"],
+        "image": "images/thesis-2023-soruklu.png",
+        "text": "<b>Examination of Exercise Effects on Daily Life Well Being Using Social Media Data</b><br>Mutlu Soruklu, <i>MSc Thesis in Data Science, 2023</i>",
+        "links":[
+            {
+                "source":"files/thesis-2023-soruklu.pdf",
+                "name":"PDF"
+            }
+        ]
+    },
+
+    {
+        "type": "thesis",
+        "year": 2023,
+        "topics": ["Thesis"],
+        "image": "images/thesis-2023-okuyucu.png",
+        "text": "<b>Understanding Manipulative Actions and Political Language on Twitter: Exploring Trending Topics and the 2023 Turkish Presidential Election</b><br>Furkan Okuyucu, <i>MSc Thesis in Data Science, 2023</i>",
+        "links":[
+            {
+                "source":"files/thesis-2023-okuyucu.pdf",
+                "name":"PDF"
+            }
+        ]
+    },
+
+    {
+        "type": "thesis",
+        "year": 2023,
+        "topics": ["Thesis"],
+        "image": "images/thesis-2023-duygu.png",
+        "text": "<b>Between Politics and Social Media: Examining State-Linked Information Operations through the Twitter Controversy in Turkiye</b><br>Umut Duygu, <i>MA Thesis in Political Science, 2023</i>",
+        "links":[
+            {
+                "source":"files/thesis-2023-duygu.pdf",
+                "name":"PDF"
+            }
+        ]
+    },
+
+    {
+        "type": "thesis",
+        "year": 2024,
+        "topics": ["Thesis"],
+        "image": "images/thesis-2024-najafi.png",
+        "text": "<b>Developing Turkish Language Models On Social Media</b><br>Ali Najafi, <i>MSc Thesis in Computer Science, 2024</i>",
+        "links":[
+            {
+                "source":"files/thesis-2024-najafi.pdf",
+                "name":"PDF"
+            }
+        ]
+    },
+
+    {
+        "type": "thesis",
+        "year": 2024,
+        "topics": ["Thesis"],
+        "image": "images/thesis-2024-zouzou.png",
+        "text": "<b>Unsupervised detection of coordinated fake followers on social media</b><br>Yasser Zouzou, <i>MSc Thesis in Data Science, 2024</i>",
+        "links":[
+            {
+                "source":"files/thesis-2024-zouzou.pdf",
+                "name":"PDF"
+            }
+        ]
+    },
+
+    {
+        "type": "thesis",
+        "year": 2024,
+        "topics": ["Thesis"],
+        "image": "images/thesis-2024-erdemli.png",
+        "text": "<b>Quantifying Effects of Company Mergers and Acquisitions on Online Social Networks</b><br>Ayşegül Rana Erdemli, <i>MSc Thesis in Computer Science, 2024</i>",
+        "links":[
+            {
+                "source":"files/thesis-2024-erdemli.pdf",
+                "name":"PDF"
+            }
+        ]
     }
+
 ]
