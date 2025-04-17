@@ -722,6 +722,22 @@
             "linkedin": "https://www.linkedin.com/in/efe-cinar/",
             "github": "https://github.com/odulsuzkisafilm"
         }
+    },
+
+    {
+        "id": "ceren-tarar",
+        "name": "Ceren Tarar",
+        "role": "Master's",
+        "education": [
+            "MSc in Biomedical Sciences and Engineering, Koc University, 2023",
+            "BSc in Mechatronics Engineering, Yildiz Technical University, 2020"
+        ],
+        "img": "pictures/ceren-tarar.jpg",
+        "about": "Data Science MSc",
+        "bio": "Ceren Tarar is a Data Science MSc student with a multidisciplinary academic background. She previously completed a BSc in Mechatronics Engineering and also holds an MSc in Biomedical Sciences and Engineering, where she focused on machine learning-enabled optimization of biomedical instruments. Currently, she is working as an AI Engineer, applying her expertise in real-world systems. Her primary interests lie in data science and natural language processing, with a particular passion for computational social sciences. Throughout her academic and professional journey, she has worked on integrating machine learning into complex systems and continues to explore the intersection of AI and social impact.",
+        "links": {
+            "linkedin": "https://www.linkedin.com/in/ceren-tarar-7b7482157/"
+        }
     }
 
 ]

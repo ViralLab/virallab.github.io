@@ -3,6 +3,20 @@
     {
         "type": "preprint",
         "year": 2025,
+        "topics": ["Comp. Soc. Sci."],
+        "image": "images/polarization-papers.png",
+        "text": "<b>Towards global equity in political polarization research</b><br>Max Falkenberg, Matteo Cinelli, Alessandro Galeazzi, Christopher A. Bail, Rosa M Benito, Axel Bruns, Anatoliy Gruzd, David Lazer, Jae K Lee, Jennifer McCoy, Kikuko Nagayoshi, David G Rand, Antonio Scala, Alexandra Siegel, Sander van der Linden, <u>Onur Varol</u>, Ingmar Weber, Magdalena Wojcieszak, Fabiana Zollo, Andrea Baronchelli, Walter Quattrociocchi<br><i>Under review</i>",
+        "links":[
+            {
+                "source":"https://arxiv.org/abs/2504.11090",
+                "name":"ArXiv"
+            }
+        ]
+    },
+
+    {
+        "type": "preprint",
+        "year": 2025,
         "topics": ["Comp. Soc. Sci.", "VRLLab"],
         "image": "images/macgym.png",
         "text": "<b>From Occasional to Steady: Habit Formation Insights From a Comprehensive Fitness Study</b><br>Ege Demirci, Efe Tuzun, Ahmet Furkan Un, Taner Giray Sonmez, Onur Varol<br><i>Under review</i>",
