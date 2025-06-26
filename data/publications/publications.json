@@ -1545,6 +1545,20 @@
                 "name":"PDF"
             }
         ]
+    },
+
+    {
+        "type": "thesis",
+        "year": 2025,
+        "topics": ["Thesis"],
+        "image": "images/thesis-2025-demirkiran.png",
+        "text": "<b>How did BabalaTV change online polarization on Twitter?</b><br>Serhat Demirkiran, <i>MSc Thesis in Data Science, 2025</i>",
+        "links":[
+            {
+                "source":"files/thesis-2025-demirkiran.pdf",
+                "name":"PDF"
+            }
+        ]
     }
 
 ]

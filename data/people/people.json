@@ -283,7 +283,7 @@
     {
         "id": "sdemirkiran",
         "name": "Serhat Demirkıran",
-        "role": "Master's",
+        "role": "Alumni",
         "img": "pictures/serhat-demirkiran.jpg",
         "about": "Data Science MSc",
         "links": {
@@ -292,7 +292,8 @@
         },
         "bio": "Serhat Demirkıran is a Data Science MSc. student at Sabancı University. He received his bachelor's degree in Computer Engineering from İstanbul Technical University. During his undergraduate, he joined the project team ITU Rover and worked on autonomous navigation for UGV. He studied recommender systems for his graduation project, developed a model to predict tweet engagement rates as a problem presented by RecSys Challenge 2020. He is interested in user behaviour and misinformation lately.",
         "education": [
-            "BSc in Computer Science, Istanbul Technical University, 2021"
+            "BSc in Computer Science, Istanbul Technical University, 2021",
+            "MSc in Data Science, Sabanci University, 2025"
         ]
     },
 
@@ -468,7 +469,7 @@
         "id": "yasser-zouzou",
         "name": "Yasser Zouzou",
         "role": "Alumni",
-        "next": "PhD, Computer Science at NYU, Abu Dhabi",
+        "next": "NLP Researcher, Huawai",
         "education": [
             "MSc in Data Science, Sabanci University, 2024",
             "MSc in Civil Engineering, Erciyes University, 2022",
@@ -503,7 +504,8 @@
     {
         "id": "hasan-kemik",
         "name": "Hasan Kemik",
-        "role": "Master's",
+        "role": "Alumni",
+        "next": "NLP Engineer, Apple",
         "education": [
             "BSc in Computer Engineering, Istanbul Bilgi University, 2021",
             "BSc in Mechatronics Engineering, Istanbul Bilgi University, 2020"
