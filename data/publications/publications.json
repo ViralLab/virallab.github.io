@@ -1,4 +1,47 @@
 [
+    {
+        "type": "conference",
+        "year": 2025,
+        "topics": ["Data Science","VRLLab", "Comp. Soc. Sci."],
+        "image": "images/2025-siu-columnist.png",
+        "text": "<b>Modelling Columnists with Large Language Models</b><br>Görkem Afşin, Baturalp Arslan Kabadayı, Eren Özdil, Kamer Kaya, Onur Varol<br><i>Signal Processing and Communications Applications Conference (Turkish)</i><br><i style='color:red'>🏆 Best paper award for \"Machine Learning and Artificial Intelligence\" track</i>",
+        "links":[
+            {
+                "source":"files/2025-siu-columnist.pdf",
+                "name":"PDF"
+            },
+            {
+                "source":"https://doi.org/10.1109/SIU66497.2025.11112306",
+                "name":"IEEE"
+            },
+            {
+                "source": "bibtex/",
+                "name": "BibTeX"
+            }
+        ]
+    },
+
+    {
+        "type": "journal",
+        "year": 2025,
+        "topics": ["Data Science"],
+        "image": "images/2025-jcch-cultural.png",
+        "text": "<b>Enhancing Cultural Heritage Archive Analysis via Automated Entity Extraction and Graph-Based Representation Learning</b><br>Anil Ozdemir, Berke Odaci, Lorans Tanatar Baruh, Onur Varol, Selim Balcisoy<br><i>ACM Journal on Computing and Cultural Heritage (2025)</i>",
+        "links":[
+            {
+                "source": "https://doi.org/10.1145/3746658",
+                "name": "Journal"
+            },
+            {
+                "source": "files/2025-jcch-cultural.pdf",
+                "name":"PDF"
+            },
+            {
+                "source": "bibtex/jcch2025cultural.bib",
+                "name": "BibTeX"
+            }
+        ]
+    },
     
     {
         "type": "preprint",
