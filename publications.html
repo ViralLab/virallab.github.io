@@ -152,7 +152,12 @@
 
             function updateBibtex(){
                 $('pre').each(function(){
-                    $('#' + $(this).attr('id')).load($(this).html());
+                    const file = $(this).text().trim(); // file name inside <pre>
+                    const pre = $(this);
+
+                    $.get(file, function(data) {
+                        pre.text(data); // replace with file contents
+                    });
                 });
             }
 
