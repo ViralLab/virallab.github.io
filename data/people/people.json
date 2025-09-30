@@ -697,7 +697,7 @@
     {
         "id": "ahmet-taha-hahya",
         "name": "Ahmet Taha Kahya",
-        "role": "Undergraduate",
+        "role": "Alumni",
         "education": [
             
         ],
@@ -739,6 +739,23 @@
         "bio": "Ceren Tarar is a Data Science MSc student with a multidisciplinary academic background. She previously completed a BSc in Mechatronics Engineering and also holds an MSc in Biomedical Sciences and Engineering, where she focused on machine learning-enabled optimization of biomedical instruments. Currently, she is working as an AI Engineer, applying her expertise in real-world systems. Her primary interests lie in data science and natural language processing, with a particular passion for computational social sciences. Throughout her academic and professional journey, she has worked on integrating machine learning into complex systems and continues to explore the intersection of AI and social impact.",
         "links": {
             "linkedin": "https://www.linkedin.com/in/ceren-tarar-7b7482157/"
+        }
+    },
+
+    {
+        "id": "baturalp-kabadayi",
+        "name": "Baturalp Kabadayı",
+        "role": "Master's",
+        "education": [
+            "BSc in Computer Science, Sabanci University, 2025"
+        ],
+        "img": "pictures/baturalp-kabadayi.jpg",
+        "about": "Computer Science MSc",
+        "bio": "Baturalp Kabadayı is an MSc student in Computer Science at Sabancı University, where he also completed his BSc in 2025. His research is in the intersection of large language models and computational social science, focusing on personalized agents that analyze and simulate online discourse. He simultaneously works as an AI Engineer at DFF Tech, developing a customer-support LLM agent. His recent VRL Lab project, “Modeling Turkish Columnists with Large Language Models” was presented at SIU 2025 in Istanbul. As of today, he is working on expanding the project to include influential U.S. journalists.",
+        "links": {
+            "linkedin": "https://www.linkedin.com/in/bkabadayi/",
+            "github": "https://github.com/bkabadayii",
+            "scholar": "https://scholar.google.com/citations?hl=en&user=xzpd10oAAAAJ"
         }
     }
 

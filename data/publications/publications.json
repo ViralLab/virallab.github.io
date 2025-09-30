@@ -1,5 +1,23 @@
 [
     {
+        "type": "journal",
+        "year": 2025,
+        "topics": ["Comp. Soc. Sci.","VRLLab"],
+        "image": "images/2025-socialmediafinance.png",
+        "text": "<b>Quantifying Effects of Company Mergers and Acquisitions on Online Social Networks</b><br>Aysegul Rana Erdemli, Seyma Gozuyilmaz, Onur Varol, Serif Aziz Simsir<br><i>Under Review</i>",
+        "links":[
+            {
+                "source": "https://dx.doi.org/10.2139/ssrn.5467493",
+                "name": "Preprint"
+            },
+            {
+                "source": "files/2025-socialmediafinance.pdf",
+                "name":"PDF"
+            }
+        ]
+    },
+
+    {
         "type": "conference",
         "year": 2025,
         "topics": ["Data Science","VRLLab", "Comp. Soc. Sci."],
