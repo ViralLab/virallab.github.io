@@ -33,8 +33,26 @@
                 "name":"IEEE"
             },
             {
-                "source": "bibtex/",
+                "source": "bibtex/siu2025journalists.bib",
                 "name": "BibTeX"
+            }
+        ]
+    },
+
+    {
+        "type": "book",
+        "year": 2025,
+        "topics": ["Data Science"],
+        "image": "images/2025-hatespeech-hrantdink.png",
+        "text": "<b>Hate Speech: Contemporary Issues and Debates</b><br>Authors list consists of several researchers from diverse disciplines contributed to the project including <u>Onur Varol</u>.<br><i>Report from Hrant Dink Foundation project (March 2025)</i>",
+        "links":[
+            {
+                "source": "https://hrantdink.org/en/asulis/publications/75-media-watch-on-hate-speech-reports/4416-hate-speech-contemporary-issues-and-debates",
+                "name": "Report"
+            },
+            {
+                "source": "files/2025-hate-speech-hrantdink.pdf",
+                "name":"PDF"
             }
         ]
     },
