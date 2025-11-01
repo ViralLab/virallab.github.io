@@ -410,7 +410,7 @@
     {
         "id": "nihat-mugurtay",
         "name": "Nihat Muğurtay",
-        "role": "Postdoc",
+        "role": "Alumni",
         "education": [
             "BA in Philosophy, Bogazici University, 2013",
             "MA in Philosophy, Bogazici University, 2016",
@@ -589,7 +589,7 @@
     {
         "id": "asude-nur-emecan",
         "name": "Asude Nur Emecan",
-        "role": "Undergraduate",
+        "role": "Alumni",
         "education": [
             
         ],
@@ -756,6 +756,22 @@
             "linkedin": "https://www.linkedin.com/in/bkabadayi/",
             "github": "https://github.com/bkabadayii",
             "scholar": "https://scholar.google.com/citations?hl=en&user=xzpd10oAAAAJ"
+        }
+    },
+
+    {
+        "id": "aksel-dindisyan",
+        "name": "Aksel Dindisyan",
+        "role": "Undergraduate",
+        "education": [
+            
+        ],
+        "img": "pictures/aksel-dindisyan.jpg",
+        "about": "Computer Science BSc",
+        "bio": "Aksel Dindisyan is an undergraduate student in Computer Science.",
+        "links": {
+            "linkedin": "https://www.linkedin.com/in/aksel-dindisyan-97a157276/",
+            "github": "https://github.com/Akseldindisyan"
         }
     }
 
