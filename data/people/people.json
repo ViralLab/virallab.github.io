@@ -767,11 +767,44 @@
             
         ],
         "img": "pictures/aksel-dindisyan.jpg",
-        "about": "Computer Science BSc",
-        "bio": "Aksel Dindisyan is an undergraduate student in Computer Science.",
+        "about": "Computer Science and Industrial Engineering Dual Major BSc",
+        "bio": "Aksel Dindisyan is an undergraduate student who is double majoring in Computer Science and Engineering and Industrial Engineering. He has internship experience in 3D vision recognition algorithms and AI based agentic system development. He is working in the fields of data science and vision recognition. He is also improving his knowledge on machine learning and natural language processing.",
         "links": {
             "linkedin": "https://www.linkedin.com/in/aksel-dindisyan-97a157276/",
             "github": "https://github.com/Akseldindisyan"
+        }
+    },
+
+    {
+        "id": "sima-adleyba",
+        "name": "Sima Adleyba",
+        "role": "Master's",
+        "education": [
+            "BSc in Computer Science, Sabanci University, 2025"
+        ],
+        "img": "pictures/sima-adleyba.jpg",
+        "about": "Data Science MSc",
+        "bio": "Sima Adleyba is an MSc Data Science student at Sabancı University, where they also completed their BSc in Computer Science in 2025. During their undergraduate studies, they worked on constructing a knowledge base for Kariyer.net, Türkiye’s largest online job platform. Their research interests include recommender systems, network science, and user modeling, with an emphasis on fairness and bias in algorithmic systems.",
+        "links": {
+            "linkedin": "https://www.linkedin.com/in/simaadleyba",
+            "github": "https://github.com/simaadleyba"
+        }
+    },
+
+    {
+        "id": "aise-ozayturk",
+        "name": "Aişe Özaytürk",
+        "role": "Master's",
+        "education": [
+            "BA in Sociology, Bogazici University, 2019",
+            "MA in Comparative Studies in History and Society, Koç University, 2023"
+        ],
+        "img": "pictures/aise-ozayturk.jpg",
+        "about": "Data Science MSc",
+        "bio": "Aişe Özaytürk is a master’s student in Data Science at Sabancı University. She previously completed an MA in Comparative Studies in History and Society. Her thesis, titled \"The Contemporary Changes in Subcontracting of Istanbul's Apparel Industry: An Analysis of Syrian Refugees; Bargaining Power in Global Capitalism\" explores the apparel industry's embeddedness in global capitalism and the positioning of Syrian refugees in the final stages of global apparel chains. She is currently working in Dr. Yasemin Tosun’s TÜBİTAK 3501 Project, \"Online Activism through Social Media: The Case of Turkey\", as a computational social scientist.",
+        "links": {
+            "linkedin": "www.linkedin.com/in/aişeözaytürk",
+            "github": "https://github.com/Aise0"
         }
     }
 
