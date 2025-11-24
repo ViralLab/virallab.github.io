@@ -806,6 +806,23 @@
             "linkedin": "www.linkedin.com/in/aişeözaytürk",
             "github": "https://github.com/Aise0"
         }
+    },
+
+    {
+        "id": "ihsan-gul",
+        "name": "İhsan Gül",
+        "role": "Master's",
+        "education": [
+            "BSc in Mechanical Engineering, Boğaziçi University, 2023",
+            "Minor in Electrical & Electronics Engineering, Boğaziçi University, 2023 "
+        ],
+        "img": "pictures/ihsan-gul.jpg",
+        "about": "Computer Science MSc",
+        "bio": "İhsan is a Computer Sciences & Engineering M.Sc. student at Sabancı University with a multidisciplinary background. He holds a B.Sc. in Mechanical Engineering and a minor in Electrical & Electronics Engineering from Boğaziçi University. Before starting his graduate studies, he worked as a software developer and database administrator, gaining hands-on experience in data-intensive systems. His current research interests lie in network analysis, data analysis, and machine learning applications, with a particular focus on computational social science.",
+        "links": {
+            "linkedin": "https://www.linkedin.com/in/ahmetihsangul98/",
+            "github": "https://github.com/LOJIMA"
+        }
     }
 
 ]
