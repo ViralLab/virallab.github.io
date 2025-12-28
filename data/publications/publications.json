@@ -1,6 +1,6 @@
 [
     {
-        "type": "journal",
+        "type": "preprint",
         "year": 2025,
         "topics": ["Comp. Soc. Sci.","VRLLab"],
         "image": "images/2025-socialmediafinance.png",
@@ -13,6 +13,28 @@
             {
                 "source": "files/2025-socialmediafinance.pdf",
                 "name":"PDF"
+            }
+        ]
+    },
+
+    {
+        "type": "journal",
+        "year": 2025,
+        "topics": ["Data Science","VRLLab", "Comp. Soc. Sci."],
+        "image": "images/2025-globaldiplomacynet.jpg",
+        "text": "<b>Quantifying Global Foreign Affairs with a Multimodal Dataset of Diplomatic Websites</b><br>Nihat Muğurtay, Kaan Güray Şirin, Mehrdad Heshmat Najafabad, Ahmet Taha Kahya, Fazlı Göktuğ Yılmaz, Yasser Zouzou, Batuhan Bahçeci, Ayça Demir, Doğukan Tosun, Meltem Müftüler-Baç, Onur Varol<br><i>Nature Scientific Data</i>",
+        "links":[
+            {
+                "source":"files/2025-globaldiplomacynet.pdf",
+                "name":"PDF"
+            },
+            {
+                "source":"https://doi.org/10.1038/s41597-025-06334-5",
+                "name":"Journal"
+            },
+            {
+                "source": "https://doi.org/10.7910/DVN/HYJDE0",
+                "name": "Dataset"
             }
         ]
     },
@@ -326,15 +348,19 @@
     },
 
     {
-        "type": "preprint",
-        "year": 2023,
+        "type": "journal",
+        "year": 2025,
         "topics": ["Machine Learning", "Comp. Soc. Sci."],
         "image": "images/bot-bookchapter.png",
-        "text": "<b>Social Bots: Detection and Challenges</b><br>Kai-Cheng Yang, <u>Onur Varol</u>, Alexander C. Nwala, Mohsen Sayyadiharikandeh, Emilio Ferrara, Alessandro Flammini, Filippo Menczer<br><i>In press</i>",
+        "text": "<b>Social Bots: Detection and Challenges</b><br>Kai-Cheng Yang, <u>Onur Varol</u>, Alexander C. Nwala, Mohsen Sayyadiharikandeh, Emilio Ferrara, Alessandro Flammini, Filippo Menczer<br><i>Handbook of Computational Social Science Edited by Taha Yasseri</i>",
         "links":[
             {
                 "source":"https://arxiv.org/abs/2312.17423",
                 "name":"ArXiv"
+            },
+            {
+                "source": "https://www.elgaronline.com/edcollchap/book/9781802207309/chapter33.xml",
+                "name": "Publisher"
             }
         ]
     },
