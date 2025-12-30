@@ -1,5 +1,27 @@
 [
     {
+        "type": "journal",
+        "year": 2025,
+        "topics": ["Comp. Soc. Sci."],
+        "image": "images/2025-earthquakeconspiracy.jpg",
+        "text": "<b>Conspiracy theories as instruments of power: The case of conspiracy beliefs in the wake of the 2023 earthquakes in Türkiye</b><br>Sinan Alper, <u>Onur Varol</u>, Onurcan Yilmaz<br><i>Political Psychology, 00, 1–20.</i>",
+        "links":[
+            {
+                "source": "https://doi.org/10.1111/pops.70106",
+                "name": "Journal"
+            },
+            {
+                "source": "files/2025-earthquakeconspiracy.pdf",
+                "name":"PDF"
+            },
+            {
+                "source": "bibtex/pops2025conspiracy.bib",
+                "name": "BibTeX"
+            }
+        ]
+    },
+
+    {
         "type": "preprint",
         "year": 2025,
         "topics": ["Comp. Soc. Sci.","VRLLab"],
@@ -348,7 +370,7 @@
     },
 
     {
-        "type": "journal",
+        "type": "book",
         "year": 2025,
         "topics": ["Machine Learning", "Comp. Soc. Sci."],
         "image": "images/bot-bookchapter.png",
