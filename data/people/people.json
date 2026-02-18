@@ -823,6 +823,21 @@
             "linkedin": "https://www.linkedin.com/in/ahmetihsangul98/",
             "github": "https://github.com/LOJIMA"
         }
+    },
+
+    {
+        "id": "sarin-ic",
+        "name": "Sarin İç",
+        "role": "Master's",
+        "education": [
+            "BSc in Mathematics Education, Bogazici University, 2025"
+        ],
+        "img": "pictures/sarin-ic.jpg",
+        "about": "Data Science MSc",
+        "bio": "Sarin İç is an MSc Data Science student at Sabancı University and a graduate of the Mathematics Education program at Boğaziçi University. During her undergraduate studies, she examined how contextual information influences preservice teachers’ statistical reasoning and data interpretation. Her research interests include data science and computational social science, with a focus on network-based analysis of social and political data.",
+        "links": {
+            "linkedin": "https://www.linkedin.com/in/sarin-i%C3%A7-095b06205/"
+        }
     }
 
 ]
