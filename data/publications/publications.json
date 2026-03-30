@@ -1,5 +1,23 @@
 [
     {
+        "type": "preprint",
+        "year": 2026,
+        "topics": ["Comp. Soc. Sci."],
+        "image": "images/2026-misrepresentation.png",
+        "text": "<b>Beyond Disinformation: Strategic Misrepresentation across Content, Actors, Processes, and Covertness</b><br>Arttu Malkamäki, Daniel Balinhas, Letizia Iannucci, Megan Vine, Frederik Temmermans, Adrien Coppen, Nikos Deligiannis, Mikko Kivelä, Michael Quayle, <u>Onur Varol</u>, Fintan McGee<br><i>Under Review</i>",
+        "links":[
+            {
+                "source": "https://arxiv.org/abs/2603.25883",
+                "name": "Preprint"
+            },
+            {
+                "source": "files/2026-misrepresentation.pdf",
+                "name":"PDF"
+            }
+        ]
+    },
+
+    {
         "type": "journal",
         "year": 2025,
         "topics": ["Comp. Soc. Sci."],
