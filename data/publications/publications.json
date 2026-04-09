@@ -18,6 +18,20 @@
     },
 
     {
+        "type": "book",
+        "year": 2026,
+        "topics": ["Comp. Soc. Sci."],
+        "image": "images/2026-hsb-kitap.jpg",
+        "text": "<b>Siyasi Kampanyalar ve Seçimlerin Hesaplamalı Analizi: Bilgi Ağları, Aktörler ve Veri Analizi</b><br>Nihat Mugurtay, Onur Varol<br><i>Sosyal Veri Bilimi: Programlama, Modelleme ve Sosyal Bilimlerde Dijital/Hesaplamalı Yöntemler</i>",
+        "links":[
+            {
+                "source": "https://bilgiyay.com/kitap/sosyal-veri-bilimi/",
+                "name": "Publisher"
+            }
+        ]
+    },
+
+    {
         "type": "journal",
         "year": 2025,
         "topics": ["Comp. Soc. Sci."],
