@@ -1,5 +1,27 @@
 [
     {
+        "type": "journal",
+        "year": 2026,
+        "topics": ["Data Science"],
+        "image": "images/2026-jspr.jpg",
+        "text": "<b>From Bias to Brevity: Balancing Coder Bias and Team Size in Thin-Slice and Full-Length Observations of Couple Interactions</b><br>Emre Selcuk, <u>Onur Varol</u>, Gul Gunaydin, Zeynep Deniz Ozden, Turan Deniz Ergun<br><i>Journal of Social and Personal Relationships</i>",
+        "links":[
+            {
+                "source": "https://doi.org/10.1177/02654075261443568",
+                "name": "Journal"
+            },
+            {
+                "source": "files/2026-jspr.pdf",
+                "name":"PDF"
+            },
+            {
+                "source": "bibtex/jspr2026selcuk.bib",
+                "name": "BibTeX"
+            }
+        ]
+    },
+
+    {
         "type": "preprint",
         "year": 2026,
         "topics": ["Comp. Soc. Sci."],
