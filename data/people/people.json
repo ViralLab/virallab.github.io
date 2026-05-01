@@ -331,28 +331,6 @@
     },
 
     {
-        "id": "nmustafaoglu",
-        "name": "Nur Mustafaoglu",
-        "role": "Faculty",
-        "img": "pictures/nur-mustafaoglu.jpg",
-        "about": "SU, Bioengineering",
-        "links": {
-            "website": "http://mustafaoglulab.com/"
-        }
-    },
-
-    {
-        "id": "otastan",
-        "name": "Oznur Tastan",
-        "role": "Faculty",
-        "img": "pictures/oznur-tastan.jpg",
-        "about": "SU, Computer Science",
-        "links": {
-            "website": "http://people.sabanciuniv.edu/otastan/"
-        }
-    },
-
-    {
         "id": "eselcuk",
         "name": "Emre Selcuk",
         "role": "Faculty",
@@ -619,7 +597,7 @@
     {
         "id": "kaan-guray-sirin",
         "name": "Kaan Güray Şirin",
-        "role": "Undergraduate",
+        "role": "Alumni",
         "education": [
             
         ],
@@ -713,7 +691,7 @@
     {
         "id": "hamit-efe-cinar",
         "name": "Hamit Efe Çınar",
-        "role": "Undergraduate",
+        "role": "Alumni",
         "education": [
             
         ],
