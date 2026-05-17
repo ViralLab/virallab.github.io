@@ -764,6 +764,7 @@
         "about": "Data Science MSc",
         "bio": "Sima Adleyba is an MSc Data Science student at Sabancı University, where they also completed their BSc in Computer Science in 2025. During their undergraduate studies, they worked on constructing a knowledge base for Kariyer.net, Türkiye’s largest online job platform. Their research interests include recommender systems, network science, and user modeling, with an emphasis on fairness and bias in algorithmic systems.",
         "links": {
+            "website": "https://simaadleyba.com/",
             "linkedin": "https://www.linkedin.com/in/simaadleyba",
             "github": "https://github.com/simaadleyba"
         }
