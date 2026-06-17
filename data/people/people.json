@@ -375,13 +375,46 @@
     },
 
     {
-        "id": "eakpinar",
-        "name": "Ezgi Akpinar",
+        "id": "sadiguzel",
+        "name": "Serkant Adıgüzel",
         "role": "Faculty",
-        "img": "pictures/ezgi-akpinar.jpg",
-        "about": "SU, Marketing",
+        "img": "pictures/serkant-adiguzel.jpg",
+        "about": "SU, Political Science",
         "links": {
-            "website": "http://myweb.sabanciuniv.edu/ezgiakpinar/"
+            "website": "https://serkantadiguzel.com/"
+        }
+    },
+
+    {
+        "id": "acarkoglu",
+        "name": "Ali Çarkoğlu",
+        "role": "Faculty",
+        "img": "pictures/ali-carkoglu.jpg",
+        "about": "Koç University, Political Science",
+        "links": {
+            "website": "https://scholar.google.com/citations?user=hnQFwroAAAAJ&hl=en"
+        }
+    },
+
+    {
+        "id": "oyilmaz",
+        "name": "Onurcan Yılmaz",
+        "role": "Faculty",
+        "img": "pictures/onurcan-yilmaz.jpg",
+        "about": "Kadir Has University, Psychology",
+        "links": {
+            "website": "https://www.moralintuitionslab.com/"
+        }
+    },
+
+    {
+        "id": "salper",
+        "name": "Sinan Alper",
+        "role": "Faculty",
+        "img": "pictures/sinan-alper.jpg",
+        "about": "Yaşar University, Psychology",
+        "links": {
+            "website": "https://www.sinanalper.net/"
         }
     },
 
