@@ -1,4 +1,23 @@
 [
+    
+{
+        "type": "preprint",
+        "year": 2026,
+        "topics": ["Data Science", "VRLLab"],
+        "image": "images/2026-socialannotate.png",
+        "text": "<b>Social-Annotate: Self-Healing Browser Extension to Annotate and Collect Social Media Data</b><br>Ali Najafi, Ismail Uluturk, Onur Varol<br><i>Under Review</i>",
+        "links":[
+            {
+                "source": "https://arxiv.org/abs/2607.01460",
+                "name": "Preprint"
+            },
+            {
+                "source": "https://varollab.com/social-annotate/",
+                "name":"Website"
+            }
+        ]
+    },
+
     {
         "type": "preprint",
         "year": 2026,
