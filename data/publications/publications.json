@@ -37,6 +37,50 @@
     },
 
     {
+        "type": "conference",
+        "year": 2026,
+        "topics": ["Data Science","VRLLab", "Comp. Soc. Sci."],
+        "image": "images/2026-siu-boykot.png",
+        "text": "<b>#Boykot: Brand-based Political Polarization</b><br>Özgün Yargı; Onur Varol<br><i>Signal Processing and Communications Applications Conference (Turkish)</i><br>",
+        "links":[
+            {
+                "source":"files/2026-siu-boykot.pdf",
+                "name":"PDF"
+            },
+            {
+                "source":"https://doi.org/10.1109/SIU71813.2026.11637021",
+                "name":"IEEE"
+            },
+            {
+                "source": "bibtex/siu2026boykot.bib",
+                "name": "BibTeX"
+            }
+        ]
+    },
+
+    {
+        "type": "conference",
+        "year": 2026,
+        "topics": ["Data Science","VRLLab", "Comp. Soc. Sci."],
+        "image": "images/2026-siu-brands.png",
+        "text": "<b>Brand Logo Detection in Social Media Images</b><br>Özgün Yargı; Aksel Dindisyan; Onur Varol<br><i>Signal Processing and Communications Applications Conference (Turkish)</i><br>",
+        "links":[
+            {
+                "source":"files/2026-siu-brands.pdf",
+                "name":"PDF"
+            },
+            {
+                "source":"https://doi.org/10.1109/SIU71813.2026.11636669",
+                "name":"IEEE"
+            },
+            {
+                "source": "bibtex/siu2026brands.bib",
+                "name": "BibTeX"
+            }
+        ]
+    },
+
+    {
         "type": "journal",
         "year": 2026,
         "topics": ["Data Science"],
