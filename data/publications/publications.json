@@ -41,7 +41,7 @@
         "year": 2026,
         "topics": ["Data Science","VRLLab", "Comp. Soc. Sci."],
         "image": "images/2026-siu-boykot.png",
-        "text": "<b>#Boykot: Brand-based Political Polarization</b><br>Özgün Yargı; Onur Varol<br><i>Signal Processing and Communications Applications Conference (Turkish)</i><br>",
+        "text": "<b>#Boykot: Brand-based Political Polarization</b><br>Özgün Yargı; Onur Varol<br><i>Signal Processing and Communications Applications Conference (Turkish)</i><br><a href='https://varollab.com/CSS-Workshops/' target='_blank'>Workshop on Computational Social Science</a>",
         "links":[
             {
                 "source":"files/2026-siu-boykot.pdf",
@@ -63,7 +63,7 @@
         "year": 2026,
         "topics": ["Data Science","VRLLab", "Comp. Soc. Sci."],
         "image": "images/2026-siu-brands.png",
-        "text": "<b>Brand Logo Detection in Social Media Images</b><br>Özgün Yargı; Aksel Dindisyan; Onur Varol<br><i>Signal Processing and Communications Applications Conference (Turkish)</i><br>",
+        "text": "<b>Brand Logo Detection in Social Media Images</b><br>Özgün Yargı; Aksel Dindisyan; Onur Varol<br><i>Signal Processing and Communications Applications Conference (Turkish)</i>",
         "links":[
             {
                 "source":"files/2026-siu-brands.pdf",
@@ -201,7 +201,7 @@
         "year": 2025,
         "topics": ["Data Science","VRLLab", "Comp. Soc. Sci."],
         "image": "images/2025-siu-columnist.png",
-        "text": "<b>Modelling Columnists with Large Language Models</b><br>Görkem Afşin, Baturalp Arslan Kabadayı, Eren Özdil, Kamer Kaya, Onur Varol<br><i>Signal Processing and Communications Applications Conference (Turkish)</i><br><i style='color:red'>🏆 Best paper award for \"Machine Learning and Artificial Intelligence\" track</i>",
+        "text": "<b>Modelling Columnists with Large Language Models</b><br>Görkem Afşin, Baturalp Arslan Kabadayı, Eren Özdil, Kamer Kaya, Onur Varol<br><i>Signal Processing and Communications Applications Conference (Turkish)</i><br><a href='https://varollab.com/CSS-Workshops/' target='_blank'>Workshop on Computational Social Science</a><br><i style='color:red'>🏆 Best paper award for \"Machine Learning and Artificial Intelligence\" track</i>",
         "links":[
             {
                 "source":"files/2025-siu-columnist.pdf",
@@ -373,7 +373,7 @@
         "year": 2024,
         "topics": ["Data Science","VRLLab", "Comp. Soc. Sci."],
         "image": "images/2024-siu-influencer.png",
-        "text": "<b>Instagram Account Classification: Influencer vs. Company Profiles</b><br>Ozgun Yargi, Onur Varol<br><i>Signal Processing and Communications Applications Conference (Turkish)</i>",
+        "text": "<b>Instagram Account Classification: Influencer vs. Company Profiles</b><br>Ozgun Yargi, Onur Varol<br><i>Signal Processing and Communications Applications Conference (Turkish)</i><br><a href='https://varollab.com/CSS-Workshops/' target='_blank'>Workshop on Computational Social Science</a>",
         "links":[
             {
                 "source":"files/2024-siu-influencer.pdf",
@@ -395,7 +395,7 @@
         "year": 2024,
         "topics": ["Data Science","VRLLab", "Comp. Soc. Sci."],
         "image": "images/2024-siu-location.png",
-        "text": "<b>City-level User Location Detection from Social Media and Analysis of Political Participation</b><br>Alp Yener, Ali Najafi, Onur Varol<br><i>Signal Processing and Communications Applications Conference (Turkish)</i>",
+        "text": "<b>City-level User Location Detection from Social Media and Analysis of Political Participation</b><br>Alp Yener, Ali Najafi, Onur Varol<br><i>Signal Processing and Communications Applications Conference (Turkish)</i><br><a href='https://varollab.com/CSS-Workshops/' target='_blank'>Workshop on Computational Social Science</a>",
         "links":[
             {
                 "source":"files/2024-siu-location.pdf",
@@ -527,7 +527,7 @@
         "year": 2023,
         "topics": ["Data Science","VRLLab", "Comp. Soc. Sci."],
         "image": "images/siu2023varol.png",
-        "text": "<b>Who Follows Turkish Presidential Candidates in 2023 Elections?</b><br>Onur Varol<br><i>Signal Processing and Communications Applications Conference (Turkish)</i>",
+        "text": "<b>Who Follows Turkish Presidential Candidates in 2023 Elections?</b><br>Onur Varol<br><i>Signal Processing and Communications Applications Conference (Turkish)</i><br><a href='https://varollab.com/CSS-Workshops/' target='_blank'>Workshop on Computational Social Science</a>",
         "links":[
             {
                 "source":"files/2023-siuvarol.pdf",
