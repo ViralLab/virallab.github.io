@@ -693,8 +693,10 @@
     {
         "id": "erfan-tarmohammadi",
         "name": "Erfan Tarmohammadi",
-        "role": "Master's",
+        "role": "Alumni",
+        "next": "PhD in Finance at Sabanci University",
         "education": [
+            "MSc in Data Science, Sabanci University, 2026"
             "BSc in Industrial Engineering, University of Tabriz, 2021"
         ],
         "img": "pictures/erfan-tarmohammadi.jpg",

@@ -296,12 +296,16 @@
     },
 
     {
-        "type": "preprint",
-        "year": 2025,
+        "type": "journal",
+        "year": 2026,
         "topics": ["Comp. Soc. Sci.", "VRLLab"],
         "image": "images/macgym.png",
-        "text": "<b>From Occasional to Steady: Habit Formation Insights From a Comprehensive Fitness Study</b><br>Ege Demirci, Efe Tuzun, Ahmet Furkan Un, Taner Giray Sonmez, Onur Varol<br><i>Under review</i>",
+        "text": "<b>From occasional to steady: causal drivers of sustained gym attendance in a large-scale fitness study</b><br>Ege Demirci, Efe Tuzun, Ahmet Furkan Un, Taner Giray Sonmez, Onur Varol<br><i>EPJ Data Science</i>",
         "links":[
+            {
+                "source": "https://doi.org/10.1140/epjds/s13688-026-00700-y",
+                "name": "Journal"
+            },
             {
                 "source":"https://arxiv.org/abs/2501.01779",
                 "name":"ArXiv"
