@@ -691,12 +691,29 @@
     },
 
     {
+        "id": "recep-gul",
+        "name": "Recep Gül",
+        "role": "Master's",
+        "education": [
+            "Business Administration, Boğaziçi University, 2005",
+            "MA in Composition, İTÜ, 2008",
+            "DMA in Composition, University of Michigan, 2012"
+        ],
+        "img": "pictures/recep-gul.jpg",
+        "about": "Data Science MSc",
+        "bio": "Recep Gul is a composer, pianist and singer. Upon completion of his undergraduate education, he earned his masters degree in composition at the Istanbul Technical University – MIAM (Center for Advanced Studies in Music) In 2008, he was accepted to the University of Michigan Composition Program with full scholarship and earned his doctorate under the supervision of Prof. Bright Sheng. With the help of his varied background, in his music he tries to use elements of Jazz, Turkish folk music, classical and contemporary music.",
+        "links": {
+            "linkedin": "https://www.linkedin.com/in/recep-gul-462a953a/"
+        }
+    },
+
+    {
         "id": "erfan-tarmohammadi",
         "name": "Erfan Tarmohammadi",
         "role": "Alumni",
         "next": "PhD in Finance at Sabanci University",
         "education": [
-            "MSc in Data Science, Sabanci University, 2026"
+            "MSc in Data Science, Sabanci University, 2026",
             "BSc in Industrial Engineering, University of Tabriz, 2021"
         ],
         "img": "pictures/erfan-tarmohammadi.jpg",
