@@ -1,5 +1,19 @@
 [
     {
+        "type": "preprint",
+        "year": 2026,
+        "topics": ["Data Science", "VRLLab"],
+        "image": "images/2026-starterpacks.png",
+        "text": "<b>Who Belongs Together? Topical and Social Structure in Bluesky Starter Packs</b><br>Sima Adleyba, Onur Varol<br><i>Under Review</i>",
+        "links":[
+            {
+                "source": "https://arxiv.org/abs/2609.31297",
+                "name": "Preprint"
+            }
+        ]
+    },
+
+    {
         "type": "journal",
         "year": 2026,
         "topics": ["Data Science", "VRLLab"],
@@ -25,6 +39,24 @@
             {
                 "source": "bibtex/osnem2026smdt.bib",
                 "name":"BibTeX"
+            }
+        ]
+    },
+
+    {
+        "type": "journal",
+        "year": 2026,
+        "topics": ["Comp. Soc. Sci.", "VRLLab"],
+        "image": "images/macgym.png",
+        "text": "<b>From occasional to steady: causal drivers of sustained gym attendance in a large-scale fitness study</b><br>Ege Demirci, Efe Tuzun, Ahmet Furkan Un, Taner Giray Sonmez, Onur Varol<br><i>EPJ Data Science</i>",
+        "links":[
+            {
+                "source": "https://doi.org/10.1140/epjds/s13688-026-00700-y",
+                "name": "Journal"
+            },
+            {
+                "source":"https://arxiv.org/abs/2501.01779",
+                "name":"ArXiv"
             }
         ]
     },
@@ -291,24 +323,6 @@
             {
                 "source": "bibtex/jcch2025cultural.bib",
                 "name": "BibTeX"
-            }
-        ]
-    },
-
-    {
-        "type": "journal",
-        "year": 2026,
-        "topics": ["Comp. Soc. Sci.", "VRLLab"],
-        "image": "images/macgym.png",
-        "text": "<b>From occasional to steady: causal drivers of sustained gym attendance in a large-scale fitness study</b><br>Ege Demirci, Efe Tuzun, Ahmet Furkan Un, Taner Giray Sonmez, Onur Varol<br><i>EPJ Data Science</i>",
-        "links":[
-            {
-                "source": "https://doi.org/10.1140/epjds/s13688-026-00700-y",
-                "name": "Journal"
-            },
-            {
-                "source":"https://arxiv.org/abs/2501.01779",
-                "name":"ArXiv"
             }
         ]
     },
