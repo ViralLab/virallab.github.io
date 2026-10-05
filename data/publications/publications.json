@@ -1869,7 +1869,7 @@
         "year": 2026,
         "topics": ["Thesis"],
         "image": "images/thesis-2026-tarmohammadi.png",
-        "text": "<b></b><br>Erfan Tarmohammadi, <i>MSc Thesis in Data Science, 2026</i>",
+        "text": "<b>LLM-drive Extraction and Financial Application of Mergers and Acquisitions Events and Actors from EDGAR</b><br>Erfan Tarmohammadi, <i>MSc Thesis in Data Science, 2026</i>",
         "links":[
             {
                 "source":"files/thesis-2026-tarmohammadi.pdf",
